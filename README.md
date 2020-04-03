@@ -11,7 +11,7 @@ We hope that the project will be validated and ready for use around the 7th of A
 **N.B. 2 Even when ready this solution will be provided as is with no express or implied warranty.
 In no event will the authors be held liable for any damages arising from the use of this solution.**
 
-**N.B. 3 This project is not done in conjuction, collaboration or influence of the original manufacturer of any equipment, medical or otherwise**
+**N.B. 3 This project is not done in conjuction, collaboration or influence of the original manufacturer of any equipment, medical or otherwise.**
 
 ### Status / Progress
 
@@ -25,8 +25,8 @@ In no event will the authors be held liable for any damages arising from the use
 
 ## Summary
 
-HFNO is a valuable treatment in the ongoing COVID-19 pandemic. It's importance has risen as many healthcare systems now recommend against using more readily available Non Invasive Ventilation (e.g. BiPAP). The access to HFNO is severely limited. The standard HFNO device Airvo 2 uses only proprietary connectors and cannot be connected to other devices.
-**The basic premise of this project is to provide 3D-printable parts to be able to split the HFNO treatment between to patients, thus doubling the treatment capacity.** This should not be used if any other method of providing HFNO exists!
+HFNO is a valuable treatment in the ongoing COVID-19 pandemic. It's importance has risen as many healthcare systems now recommend against using more readily available Non Invasive Ventilation (e.g. BiPAP). The access to HFNO is severely limited. General treatment guidelines for COVID-19 now stipulate maximum treatment levels of 30 litres / minute. The standard HFNO device Airvo 2 ("Optiflow") is capable of outputting 60 litres / minute but uses only proprietary connectors and cannot be connected to other devices.
+**The basic premise of this project is to provide 3D-printable parts to be able to split the Airvo 2 HFNO treatment between to patients, thus doubling the treatment capacity.** This should not be used if _**any**_ other method of providing HFNO exists!
 
 This project provides both the 3D-models of parts needed for split HFNO treatment as well as _**suggested**_ instructions for use and manufacture. We also aim to continuously provide the validation from both simulations / calculations as well as real world usage (when ready).
 
@@ -59,6 +59,6 @@ This AR demo, only available on iOS, shows the 3D printed parts in actual size i
 
 ## Thanks to
 
-### [3Dverkstan](http://3dverkstan.se) for provididng their time, effort, expertise and printers for this project. Without them none of this would have happened.
+### [3Dverkstan](http://3dverkstan.se) for providing their time, effort, expertise and printers for this project. Without them none of this would have happened.
 
 All the online communities, doctors, nurses and medical technicians who have provided their input and knowledge into every step of this process.
