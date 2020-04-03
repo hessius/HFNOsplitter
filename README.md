@@ -13,7 +13,7 @@ In no event will the authors be held liable for any damages arising from the use
 
 **N.B. 3 This project is not done in conjuction, collaboration or influence of the original manufacturer of any equipment, medical or otherwise**
 
-### Progress
+### Status / Progress
 
 - [x] Develop Solution
 - [x] Risk Assesment
@@ -23,24 +23,12 @@ In no event will the authors be held liable for any damages arising from the use
 - [ ] First clinically aimed production (Aimed at April 5th)
 - [ ] Roll out (Aimed at April 7th)
 
-Treating two patients simultaneously is possible due to
-
-1. Treatment guidelines that stipulate a maximum flow of 30 litres/minute
-2. The Airvo 2 system being capable of outputting 60 litres/minute
-
-Treating two patients simultaneously is feasible due to
-
-1. Unidirectional high flow makes cross contamination unlikely
-2. Using this only for cohort care with patients with the same disease makes cross contamination less significant
-3. HFNO being a completely open system / circuit makes patient factors basically irrelevant for air flow dynamics
-4. In the authors' limited experience the COVID-19 patients are often titrated to very similar treatments
-
-This project provides both the 3D-models of parts needed for split HFNO treatment as well as **suggested** instructions for use and manufacture. We also aim to continuously provide the validation from both simulations / calculations as well as real world usage (when ready).
-
 ## Summary
 
 HFNO is a valuable treatment in the ongoing COVID-19 pandemic. It's importance has risen as many healthcare systems now recommend against using more readily available Non Invasive Ventilation (e.g. BiPAP). The access to HFNO is severely limited. The standard HFNO device Airvo 2 uses only proprietary connectors and cannot be connected to other devices.
 **The basic premise of this project is to provide 3D-printable parts to be able to split the HFNO treatment between to patients, thus doubling the treatment capacity.** This should not be used if any other method of providing HFNO exists!
+
+This project provides both the 3D-models of parts needed for split HFNO treatment as well as _**suggested**_ instructions for use and manufacture. We also aim to continuously provide the validation from both simulations / calculations as well as real world usage (when ready).
 
 ## Documentation
 

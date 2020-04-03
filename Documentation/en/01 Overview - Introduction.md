@@ -1,4 +1,18 @@
-## Overview / Introduction
+## Overview
+
+Treating two patients in parallell with HFNO using the Airvo 2 system is possible due to
+
+1. Treatment guidelines that stipulate a maximum flow of 30 litres/minute
+2. The Airvo 2 system being capable of outputting 60 litres/minute
+
+Treating two patients in parallell with HFNO using the Airvo 2 system is feasible due to
+
+1. Unidirectional high flow makes cross contamination unlikely
+2. Using this only for cohort care with patients with the same disease makes cross contamination less significant
+3. HFNO being a completely open system / circuit makes patient factors basically irrelevant for air flow dynamics
+4. In the authors' limited experience the COVID-19 patients are often titrated to very similar treatments
+
+## Introduction
 
 High Flow Nasal oxygen (HFNO) / High Flow Nasal Cannula (HFNC) is a staple of treatment in COVID-19, especially as many countries/regions/hospitals/health care providers are now recommending against regularly using CPAP and Non Invasive Ventilation / BiPAP in these patients. This is the case in Sweden (where this project was initiated), where the Infectious Diseases Association of Sweden (**IDAS**, Sw: "Svenska Infektionsläkarföreningen") has recommended not using CPAP or NIV as well as limited upper maximums for HFNO (See below).
 
