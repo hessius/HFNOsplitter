@@ -1,7 +1,9 @@
 # Welcome to the HFNOsplitter project
 
-This project is dedicated to doubling the capacity for High Flow Nasal Oxygen (HFNO) treatment by treating two COVID-19 patients simultaneously using one HFNO-device.
+This project is dedicated to doubling the capacity for High Flow Nasal Oxygen (HFNO) treatment by treating two COVID-19 patients simultaneously using one HFNO-device by adding 3D printed parts.
 This project is currently only aimed at the Airvo 2 Optiflow system.
+
+![Render of T-Shaped Connector](Meta/T-Front.png 'Render of T-Shaped Connector')
 
 **N.B. 1 This is an ongoing project and is not yet ready for use in patients.
 We hope that the project will be validated and ready for use around the 7th of April.**
@@ -16,7 +18,7 @@ In no event will the authors be held liable for any damages arising from the use
 - [x] Develop Solution
 - [x] Risk Assesment
 - [x] Medical instructions (Swedish)
-- [ ] Medical instructions (English) (_zOngoing_)
+- [ ] Medical instructions (English) (_Ongoing_)
 - [ ] Validation of prototypes (_Ongoing_)
 - [ ] First clinically aimed production (Aimed at April 5th)
 - [ ] Roll out (Aimed at April 7th)
@@ -34,8 +36,6 @@ Treating two patients simultaneously is feasible due to
 4. In the authors' limited experience the COVID-19 patients are often titrated to very similar treatments
 
 This project provides both the 3D-models of parts needed for split HFNO treatment as well as **suggested** instructions for use and manufacture. We also aim to continuously provide the validation from both simulations / calculations as well as real world usage (when ready).
-
-![Render of T-Shaped Connector](Meta/T-Front.png 'Render of T-Shaped Connector')
 
 ## Summary
 
