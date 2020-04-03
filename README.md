@@ -42,6 +42,16 @@ This project provides both the 3D-models of parts needed for split HFNO treatmen
 HFNO is a valuable treatment in the ongoing COVID-19 pandemic. It's importance has risen as many healthcare systems now recommend against using more readily available Non Invasive Ventilation (e.g. BiPAP). The access to HFNO is severely limited. The standard HFNO device Airvo 2 uses only proprietary connectors and cannot be connected to other devices.
 **The basic premise of this project is to provide 3D-printable parts to be able to split the HFNO treatment between to patients, thus doubling the treatment capacity.** This should not be used if any other method of providing HFNO exists!
 
+## Documentation
+
+0. [**About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md)
+1. [**Overview - Introduction**](Documentation/en/01%20Overview%20-%20Introduction.md)
+1. [**Preparation**](Documentation/en/02%20Preparation.md)
+1. [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md)
+1. [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md)
+1. [**Troubleshooting**](Documentation/en/05%20Troubleshooting.md)
+1. [**About This Documentation**](Documentation/en/06%20Hygiene.md)
+
 ## Demo
 
 This AR demo, only available on iOS, shows the 3D printed parts in actual size in Augmented Reality. Launch the demo by opening the link using an iPhone or iPad:
