@@ -48,18 +48,14 @@ This AR demo, only available on iOS, shows the 3D printed parts in actual size i
 
 ## Working group
 
-(Alphabetical order)
-
-- Erik Cederberg, 3Dverkstan
-- Erik Ekbom, Region Skåne
-- Petter Frieberg. Region Skåne
-- Einar Heiberg, Region Skåne
-- Jesper Hessius (MD), Region Västmanland
-- Per Nordqvist, Region Skåne
-- Göran Peterson, Region Skåne
-- Philip Bernborg, Region Skåne
-- Sebastian Strunk-Möller, Region Skåne
-- Muris Imsirovic, Region Skåne
+| Name                                          | Role                                                                   |
+| --------------------------------------------- | ---------------------------------------------------------------------- |
+| Jesper Hessius, Region Västmanland (Västerås) | Project initiator and MD, resident in internal medicine and cardiology |
+| Per Nordqvist, MT, SUS, Region Skåne          | Engineer, regulatory, documentation, risk analysis                     |
+| Einar Heiberg, Klinfys, Lund                  | Engineer, 3D printing, regulatory, all-in-all                          |
+| Petter Frieberg, Klinfys, Lund                | MD, Engineer, Flow simulations                                         |
+| Erik Cederberg, 3Dverkstan                    | CAD and design                                                         |
+| Erik Ekbom, BFT, SUS                          | 3D printing                                                            |
 
 ## Thanks to
 
