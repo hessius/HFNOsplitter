@@ -32,13 +32,14 @@ This project provides both the 3D-models of parts needed for split HFNO treatmen
 
 ## Documentation
 
-0. [**About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md)
-1. [**Overview - Introduction**](Documentation/en/01%20Overview%20-%20Introduction.md)
-1. [**Preparation**](Documentation/en/02%20Preparation.md)
-1. [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md)
-1. [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md)
-1. [**Troubleshooting**](Documentation/en/05%20Troubleshooting.md)
-1. [**About This Documentation**](Documentation/en/06%20Hygiene.md)
+0. [**About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md) (view as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/00%20About%20This%20Documentation.md))
+1. [**Overview - Introduction**](Documentation/en/01%20Overview%20-%20Introduction.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/01%20Overview%20-%20Introduction.md))
+1. [**Preparation**](Documentation/en/02%20Preparation.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/02%20Preparation.md))
+1. [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/03%20Models%20and%20Instructions.md))
+1. [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/04%20Setup%20and%20Treatment.md))
+1. [**Troubleshooting**](Documentation/en/05%20Troubleshooting.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/05%20Troubleshooting.md))
+1. [**Hygiene**](Documentation/en/06%20Hygiene.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/06%20Hygiene.md))
+1. [**FAQ**](Documentation/en/07%20FAQ.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/07%20FAQ.md))
 
 ## Demo
 
@@ -48,14 +49,14 @@ This AR demo, only available on iOS, shows the 3D printed parts in actual size i
 
 ## Working group
 
-| Name                                          | Role                                                                   |
-| --------------------------------------------- | ---------------------------------------------------------------------- |
-| Jesper Hessius, Region Västmanland (Västerås) | Project initiator and MD, resident in internal medicine and cardiology |
-| Per Nordqvist, MT, SUS, Region Skåne          | Engineer, regulatory, documentation, risk analysis                     |
-| Einar Heiberg, Klinfys, Lund                  | Engineer, 3D printing, regulatory, all-in-all                          |
-| Petter Frieberg, Klinfys, Lund                | MD, Engineer, Flow simulations                                         |
-| Erik Cederberg, 3Dverkstan                    | CAD and design                                                         |
-| Erik Ekbom, BFT, SUS                          | 3D printing                                                            |
+| Name                                              | Role                                                                   |
+| ------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Jesper Hessius**, Region Västmanland (Västerås) | Project initiator and MD, resident in internal medicine and cardiology |
+| **Per Nordqvist**, MT, SUS, Region Skåne          | Engineer, regulatory, documentation, risk analysis                     |
+| **Einar Heiberg**, Klinfys, Lund                  | Engineer, 3D printing, regulatory, all-in-all                          |
+| **Petter Frieberg**, Klinfys, Lund                | MD, Engineer, Flow simulations                                         |
+| **Erik Cederberg**, 3Dverkstan                    | CAD and design                                                         |
+| **Erik Ekbom**, BFT, SUS                          | 3D printing                                                            |
 
 ## Thanks to
 
