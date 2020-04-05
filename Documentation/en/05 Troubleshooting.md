@@ -6,27 +6,30 @@ If a patient were to suddenly deteriorate during ongoing SHFNO the following che
 
 ### Checklist
 
-1. Check Nasal Cannula
+1. **Check Nasal Cannula**
 
    Is the nasal cannula correctly situated in the nares? N.B. The Airvo system's built-in warning for obstructed flow does not work during SHFNO.
 
    Ensure that there's no build up of condensation within the tube leading up to the nasal cannula.
 
-1. Check all connections
+1. **Check all connections**
 
    Start proximally and work your way distally. Ensure that all connections are secure fitted. If any connection seems loose, try changing adapter or T-connector.
 
-1. Check CPAP / BiPAP tube
+1. **Check CPAP / BiPAP tube**
+
    Ensure that there is no sharp angles to the tube, restricting flow.
 
    Ensure that there is no build up of condesantion within the tube.
 
-1. Check AirSpiral tube
+1. **Check AirSpiral tube**
+
    Ensure that there is no sharp angles to the tube, restricting flow.
 
    Ensure that there is no build up of condesantion within the tube.
 
-1. Check collection bottles
+1. **Check collection bottles**
+
    Ensure that the bottle is securely connected and that it's not completely filled with condensation.
 
 <br /><br /><br /><br />
