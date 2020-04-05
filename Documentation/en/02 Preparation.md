@@ -48,3 +48,9 @@ The patients meet, or are expected to meet, all of the below:
 - In cohort care or can be transferred to cohort care
 - Similar treatment requirements
   - When needing to start a new patient on (S)HFNO when all Airvo 2 systems are in use, we recommend matching patients with ongoing HFNO treatment with the same or similar settings so that new patients whenever possible can be started on discrete HFNO until treatment settings are dialed in.
+
+<br /><br /><br /><br />
+
+---
+
+### [**Overview - Introduction**](01%20Overview%20-%20Introduction.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**Models and Instructions**](03%20Models%20and%20Instructions.md)

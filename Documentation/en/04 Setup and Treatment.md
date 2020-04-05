@@ -24,3 +24,9 @@ _\*N.B. That the Air Spiral tube generally comes in a set with a humidity chambe
 Fig 1. Schematisk bild ”T-koppling”
 
 ###
+
+<br /><br /><br /><br />
+
+---
+
+### [**Models and Instructions**](03%20Models%20and%20Instructions.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**Troubleshooting**](05%20Troubleshooting.md)
