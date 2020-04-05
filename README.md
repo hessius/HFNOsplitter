@@ -19,7 +19,7 @@ In no event will the authors be held liable for any damages arising from the use
 - [x] Develop Solution
 - [x] Risk Assesment
 - [x] Medical instructions (Swedish)
-- [ ] Medical instructions (English) (_Ongoing_)
+- [x] Medical instructions (English) (_First version published_)
 - [ ] Validation of prototypes (_Ongoing_)
 - [ ] First clinically aimed production (Aimed at April 5th)
 - [ ] Roll out (Aimed at April 7th)
