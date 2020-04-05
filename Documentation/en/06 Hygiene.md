@@ -1,4 +1,6 @@
-TBD
+## Hygiene
+
+Water chamber and AirSpiral tube are changed every 14 days, if treatment for both patients is stopped or earlier if needed.
 
 <br /><br /><br /><br />
 
