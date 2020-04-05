@@ -14,11 +14,9 @@ Treating two patients in parallell with HFNO using the Airvo 2 system is feasibl
 
 ## Basic Schematics
 
-**Standard Setup**
-![Standard HFNO Setup](../../Meta/Schematics%20and%20Renders/HFNOschema.png 'Standard HFNO Setup')
-
-**SHFNO Setup**
-![SHFNO Setup](../../Meta/Schematics%20and%20Renders/SHFNOschema.png 'SHFNO Setup')
+| Standard Setup                                                                                     | SHFNO setup                                                                         |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ![Standard HFNO Setup](../../Meta/Schematics%20and%20Renders/HFNOschema.png 'Standard HFNO Setup') | ![SHFNO Setup](../../Meta/Schematics%20and%20Renders/SHFNOschema.png 'SHFNO Setup') |
 
 ## Introduction
 
