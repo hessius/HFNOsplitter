@@ -32,6 +32,18 @@ _This section will be updated continuously._
 
   Further, one needs to acknowledge the very special circumstanses where the risks associated with not being able to provide treatment might be catastrophic.
 
+- ### What do the 3D printed parts cost?
+
+  The cost of materials is around USD 40. Many print shops now waive the production costs for health care providers. Ask your local shop!
+
+- ### How do I find a local 3D print shop?
+
+  Many universities (and university hospitals) use the types of printers recommended for these types of applications, also larger dental practices might carry these in your area. If you can find a local reseller of the resin you might be able to get information on where to ask for help.
+
+- ### Can you sell me a kit?
+
+  No. This project is strictly non-commercial. You are not allowed to sell kits, however if you produce these for someone else you are allowed to charge for contract manufacturing i.e. materials used and print time reimbursement if applicable.
+
 <br /><br /><br /><br />
 
 ---
