@@ -46,3 +46,9 @@ In the setup of SHFNO both patients receive identical treatment, in the (hithert
 It is our recommendation that these models be printed using high quality resin approved for medical use. Please see part 3 of this documentation, [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/03%20Models%20and%20Instructions.md)) for more details.
 
 _Aside from the main set provided are also models of other adapters as well as an alternate T-shaped connector enabling the proprietary connectors to connect to other standardised connectors as setup might differ across hospitals._
+
+<br /><br /><br /><br />
+
+---
+
+### [**00 About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**02 Preparation**](Documentation/en/02%20Preparation.md)
