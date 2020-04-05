@@ -51,4 +51,4 @@ _Aside from the main set provided are also models of other adapters as well as a
 
 ---
 
-### [**00 About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**02 Preparation**](Documentation/en/02%20Preparation.md)
+### [**00 About This Documentation**](00%20About%20This%20Documentation.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**02 Preparation**](02%20Preparation.md)
