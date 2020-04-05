@@ -12,13 +12,21 @@ Treating two patients in parallell with HFNO using the Airvo 2 system is feasibl
 3. HFNO being a completely open system / circuit makes patient factors non significant for air flow dynamics
 4. In the authors' limited experience the COVID-19 patients are often titrated to very similar treatments
 
+## Basic Schematics
+
+**Standard Setup**
+![Standard HFNO Setup](../../Meta/Schematics%20and%20Renders/HFNOschema.png 'Standard HFNO Setup')
+
+**SHFNO Setup**
+![SHFNO Setup](../../Meta/Schematics%20and%20Renders/SHFNOschema.png 'SHFNO Setup')
+
 ## Introduction
 
 High Flow Nasal oxygen (HFNO) / High Flow Nasal Cannula (HFNC) is a staple of treatment in COVID-19, especially as many countries/regions/hospitals/health care providers are now recommending against regularly using CPAP and Non Invasive Ventilation / BiPAP in these patients. This is the case in Sweden (where this project was initiated), where the Infectious Diseases Association of Sweden (**IDAS**, Sw: "Svenska Infektionsläkarföreningen") has recommended not using CPAP or NIV as well as limited upper maximums for HFNO (See below).
 
 Used timely and correctly in the context of COVID-19 a patient can in the best case scenario avoid intubation and invasive ventilation. Access to HFNO systems is however severely limited and the machines are (in many places) markedly more scarce than e.g. BiPAP-systems.
 
-The main system in use outside of the ICU is the Fischer & Paykel Airvo 2, often called "**Optiflow**", which to be precise is the special nasal cannula used with the system. The Airvo is capable of outputting 2-60 litres / minute of airflow with 21-100% FiO2 and uses wholly proprietary connectors which are not readily available and cannot be used with standardised respiratory equipment.
+The main system in use outside of the ICU is the Fisher & Paykel Airvo 2, often called "**Optiflow**", which to be precise is the special nasal cannula used with the system. The Airvo is capable of outputting 2-60 litres / minute of airflow with 21-100% FiO2 and uses wholly proprietary connectors which are not readily available and cannot be used with standardised respiratory equipment.
 
 IDAS recommends limiting the HFNO air flow in COVID-19 patients to 30 litres / minute due to risk of aeorosolisation and the FiO2 to 50 % due to the risk of alveolar collapse. **Thus the Airvo 2 is _theoretically_ capable of supplying two patients with HFNO without impeding the maximum levels of treatment.**
 

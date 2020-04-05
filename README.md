@@ -3,7 +3,7 @@
 This project is dedicated to doubling the capacity for High Flow Nasal Oxygen (HFNO) treatment by treating two COVID-19 patients simultaneously using one HFNO-device by adding 3D printed parts.
 This project is currently only aimed at the Airvo 2 Optiflow system.
 
-![Render of T-Shaped Connector](Meta/T-Front.png 'Render of T-Shaped Connector')
+![Render of T-Shaped Connector](Meta/Schematics%20and%20Renders/T-Front.png 'Render of T-Shaped Connector')
 
 **N.B. 1 This is an ongoing project and is not yet ready for use in patients.
 We hope that the project will be validated and ready for use around the 7th of April.**
