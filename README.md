@@ -3,7 +3,8 @@
 This project is dedicated to doubling the capacity for High Flow Nasal Oxygen (HFNO) treatment by treating two COVID-19 patients simultaneously using one HFNO-device by adding 3D printed parts.
 This project is currently only aimed at the Airvo 2 Optiflow system.
 
-![Render of T-Shaped Connector](Meta/Schematics%20and%20Renders/T-Front.png 'Render of T-Shaped Connector')
+![SHFNO Schematic setup](Meta/Schematics%20and%20Renders/SHFNOschema.png 'SHFNO Schematic setup')
+_Fig 1. SHFNO Schematic setup_
 
 **N.B. 1 This is an ongoing project and is not yet ready for use in patients.
 We hope that the project will be validated and ready for use around the 7th of April.**
@@ -30,6 +31,9 @@ HFNO is a valuable treatment in the ongoing COVID-19 pandemic. It's importance h
 
 This project provides both the 3D-models of parts needed for split HFNO treatment as well as _**suggested**_ instructions for use and manufacture. We also aim to continuously provide the validation from both simulations / calculations as well as real world usage (when ready).
 
+![Render of T-Shaped Connector](Meta/Schematics%20and%20Renders/T-Front.png 'Render of T-Shaped Connector')
+_Fig 2. Render of the T-shaped connector that enables SHFNO_
+
 ## Documentation
 
 0. [**About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md) (view as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/00%20About%20This%20Documentation.md))
@@ -45,7 +49,7 @@ This project provides both the 3D-models of parts needed for split HFNO treatmen
 
 This AR demo, only available on iOS, shows the 3D printed parts in actual size in Augmented Reality. Launch the demo by opening the link using an iPhone or iPad:
 
-## [Launch AR-Demo](https://github.com/hessius/HFNOsplitter/blob/master/Meta/Complete%20Set%20-%20Orientation.usdz?raw=true)
+## [Launch AR-Demo](https://github.com/hessius/HFNOsplitter/blob/master/Meta/Other/Complete%20Set%20-%20Orientation.usdz?raw=true)
 
 ## Working group
 
