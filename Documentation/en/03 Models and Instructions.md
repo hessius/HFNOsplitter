@@ -37,10 +37,13 @@ These prints are made to be printed using readily available resin 3D-printing me
 
 We recommend against using FDM / FFM printing as the high humidity and temperature is very suitable for bacterial growth and as FDM produces porous prints which cannot easily be sterilised.
 
-All prints intended for medical use within this project are printed using the Formlabs Dental SG Resin. This resin is approved for dental use and is made to be autoclaved. When using this resin our risk assessment has been that the associated risks with the printing material are negligable.
+All prints intended for medical use within this project are printed using the Formlabs Surgical Guide or Formlabs Dental SG Resin. These resins are approved for dental use and made to be autoclaved. When using one of these resins our risk assessment has been that the associated risks with the printing material are negligable.
 
-[Dental SG Datasheet](https://formlabs-media.formlabs.com/datasheets/DentalSG-DataSheet.pdf)
-[Dental SG Instructions for use](https://media.formlabs.com/m/1a0daf305c310d9d/original/-ENUS-Dental-SG-Instructions-for-Use.pdf)
+[Formlabs Surgical Guide Datasheet](https://dental-media.formlabs.com/datasheets/SugicalGuideTechnicalDataSheet-101.pdf)
+[Formlabs Surgical Guide Instructions for use](https://dental-media.formlabs.com/filer_public/56/69/566945b9-11c8-417a-a3e2-e88ec38668f5/surgicalguideifu.pdf)
+
+[Formlabs Dental SG Datasheet](https://formlabs-media.formlabs.com/datasheets/DentalSG-DataSheet.pdf)
+[Formlabs Dental SG Instructions for use](https://media.formlabs.com/m/1a0daf305c310d9d/original/-ENUS-Dental-SG-Instructions-for-Use.pdf)
 
 If you attempt to print this on your own, we recommend that you have experience with these types of materials or are able to bring on the assistance of someone with that type of experience.
 
