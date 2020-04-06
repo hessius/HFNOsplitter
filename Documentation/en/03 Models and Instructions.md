@@ -55,8 +55,7 @@ For all parts we recommend that you turn off internal supports. For the T-connec
 
 For the adapters we recommend that you raise them slightly off the print bed, with the 22mm coupling facing the build plate straight on. This way, support can be avoided on all critical surfaces, ensuring the best possible tolerance level.
 
-![One complete set on a build plate](../../Meta/Schematics and Renders/Buildplate-one-set-Form3.png 'One complete set on a build plate')
-![Adapter straight up with support](../../Meta/Schematics and Renders/adapter-with-support.png 'Adapter straight up with support')
+![One complete set on a build plate](../../Meta/Schematics and Renders/Buildplate-one-set-Form3.png 'One complete set on a build plate') | ![Adapter straight up with support](../../Meta/Schematics and Renders/adapter-with-support.png 'Adapter straight up with support') | 
 ![T-Coupling angled with support](../../Meta/Schematics and Renders/T-coupling.png 'T-Coupling angled with support')
 
 <br /><br /><br /><br />
