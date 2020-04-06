@@ -40,14 +40,15 @@ We recommend against using FDM / FFM printing as the high humidity and temperatu
 All prints intended for medical use within this project are printed using the Formlabs Dental SG Resin. This resin is approved for dental use and is made to be autoclaved. When using this resin our risk assessment has been that the associated risks with the printing material are negligable.
 
 [Dental SG Datasheet](https://formlabs-media.formlabs.com/datasheets/DentalSG-DataSheet.pdf)
-[Dental SG Instructions for use](https://formlabs-media.formlabs.com/datasheets/DentalSG-DataSheet.pdf)
+[Dental SG Instructions for use](https://media.formlabs.com/m/1a0daf305c310d9d/original/-ENUS-Dental-SG-Instructions-for-Use.pdf)
 
 If you attempt to print this on your own, we recommend that you have experience with these types of materials or are able to bring on the assistance of someone with that type of experience.
 
 After validation is complete, we will provide complete printing instructions in the form of .form projects that others are free to use.
 
-For all parts we recommend that you turn off internal supports. For the T-connector we recommend that you rotate the model so that B faces downward, with C facing upward, at a 45 degree angle, with around 10 degrees of tilt backwards.
-For the adapters we recommend that you raise them slightly off the print bed, with no additional rotation.
+For all parts we recommend that you turn off internal supports. For the T-connector we recommend that you rotate the model so that one the long axis is aiming toward the buld plate in a ~50 degree angle, with around 10 degrees of tilt backwards.
+
+For the adapters we recommend that you raise them slightly off the print bed, with the 22mm coupling facing the build plate straight on. This way, support can be avoided on all critical surfaces, ensuring the best possible tolerance level.
 
 ![All adapters 3D print](../../Meta/Schematics%20and%20Renders/Adapters_Print.png 'All adapters 3D Print')
 
