@@ -6,9 +6,9 @@ _This section will be updated continuously._
 
   You might still be able to increase your capacity for HFNO by utilising SHFNO when possible.
 
-  A simple example: Let's say you have 15 HFNO system, and 30 patients deemed to benefit from HFNO but only half of them are able to be treated with 30 lpm of air flow.
+  A simple example: Let's say you have 20 HFNO system, and 30 patients deemed to benefit from HFNO but only half of them are able to be treated with 30 lpm of air flow.
 
-  Without SHFNO you (obviously) will only be able to treat 15 of those patients. With SHFNO you're now able to treat 22-25 patients instead of 15. Thus SHFNO can be part of a resource utilisation strategy in a crisis situation even though you might not be able to apply it across the board.
+  Without SHFNO you (obviously) will only be able to treat 20 of those patients. With SHFNO you're now able to treat 25-27 patients instead of 20. Thus SHFNO can be part of a resource utilisation strategy in a crisis situation even though you might not be able to apply it across the board.
 
 - ### What if a patient needs more than 30 lpm?
 
