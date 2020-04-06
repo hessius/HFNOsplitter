@@ -46,7 +46,7 @@ If you attempt to print this on your own, we recommend that you have experience 
 
 After validation is complete, we will provide complete printing instructions in the form of .form projects that others are free to use.
 
-For all parts we recommend that you turn off internal supports. For the T-connector we recommend that you rotate the model so that one the long axis is aiming toward the buld plate in a ~50 degree angle, with around 10 degrees of tilt backwards.
+For all parts we recommend that you turn off internal supports. For the T-connector we recommend that you rotate the model so that one end of the long axis (so one of the 22mm connectors) is aiming toward the buld plate in a ~50 degree angle, with around 10 degrees of tilt backwards.
 
 For the adapters we recommend that you raise them slightly off the print bed, with the 22mm coupling facing the build plate straight on. This way, support can be avoided on all critical surfaces, ensuring the best possible tolerance level.
 
