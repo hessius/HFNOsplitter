@@ -37,19 +37,27 @@ These prints are made to be printed using readily available resin 3D-printing me
 
 We recommend against using FDM / FFM printing as the high humidity and temperature is very suitable for bacterial growth and as FDM produces porous prints which cannot easily be sterilised.
 
-All prints intended for medical use within this project are printed using the Formlabs Dental SG Resin. This resin is approved for dental use and is made to be autoclaved. When using this resin our risk assessment has been that the associated risks with the printing material are negligable.
+All prints intended for medical use within this project are printed using the Formlabs Surgical Guide or Formlabs Dental SG Resin. These resins are approved for dental use and made to be autoclaved. When using one of these resins our risk assessment has been that the associated risks with the printing material are negligable.
 
-[Dental SG Datasheet](https://formlabs-media.formlabs.com/datasheets/DentalSG-DataSheet.pdf)
-[Dental SG Instructions for use](https://formlabs-media.formlabs.com/datasheets/DentalSG-DataSheet.pdf)
+[Formlabs Surgical Guide Datasheet](https://dental-media.formlabs.com/datasheets/SugicalGuideTechnicalDataSheet-101.pdf)
+
+[Formlabs Surgical Guide Instructions for use](https://dental-media.formlabs.com/filer_public/56/69/566945b9-11c8-417a-a3e2-e88ec38668f5/surgicalguideifu.pdf)
+
+[Formlabs Dental SG Datasheet](https://formlabs-media.formlabs.com/datasheets/DentalSG-DataSheet.pdf)
+
+[Formlabs Dental SG Instructions for use](https://media.formlabs.com/m/1a0daf305c310d9d/original/-ENUS-Dental-SG-Instructions-for-Use.pdf)
 
 If you attempt to print this on your own, we recommend that you have experience with these types of materials or are able to bring on the assistance of someone with that type of experience.
 
 After validation is complete, we will provide complete printing instructions in the form of .form projects that others are free to use.
 
-For all parts we recommend that you turn off internal supports. For the T-connector we recommend that you rotate the model so that B faces downward, with C facing upward, at a 45 degree angle, with around 10 degrees of tilt backwards.
-For the adapters we recommend that you raise them slightly off the print bed, with no additional rotation.
+For all parts we recommend that you turn off internal supports. For the T-connector we recommend that you rotate the model so that one end of the long axis (so one of the 22mm connectors) is aiming toward the buld plate in a ~50 degree angle, with around 10 degrees of tilt backwards.
 
-![All adapters 3D print](../../Meta/Schematics%20and%20Renders/Adapters_Print.png 'All adapters 3D Print')
+For the adapters we recommend that you raise them slightly off the print bed, with the 22mm coupling facing the build plate straight on. This way, support can be avoided on all critical surfaces, ensuring the best possible tolerance level.
+
+| Complete set on build plate | Adapter straight up with support |  T-coupling angled with support |
+| --------------------------- | -------------------------------- | ------------------------------- |
+| ![One complete set on a build plate](../../Meta/Schematics%20and%20Renders/Buildplate-one-set-Form3.png 'One complete set on a build plate') | ![Adapter straight up with support](../../Meta/Schematics%20and%20Renders/adapter-with-support.png 'Adapter straight up with support') | ![T-Coupling angled with support](../../Meta/Schematics%20and%20Renders/T-coupling.png 'T-Coupling angled with support') |
 
 <br /><br /><br /><br />
 

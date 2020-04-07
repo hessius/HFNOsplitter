@@ -5,7 +5,7 @@
 - Fisher & Paykel Airvo 2.
 - Pole stand with Airvo 2 and oxygen aggregate.
 - 1 x Water Chamber\*. (900PT561)
-- 2 x Fisher & Paykel AirSpiral\*. (900PT561)
+- 1 x Fisher & Paykel AirSpiral\*. (900PT561)
 - 2 x Nasal Cannula Fisher & Paykel Optiflow (OPT942 / OPT944 / OPT946)
   - N.B! Both cannulae should be identic in size!
 - 2 x CPAP / BiPAP-slang
