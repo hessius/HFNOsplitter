@@ -1,7 +1,7 @@
 # Welcome to the HFNOsplitter project
 
-This project is dedicated to doubling the capacity for High Flow Nasal Oxygen (HFNO) treatment by treating two COVID-19 patients simultaneously using one HFNO-device by adding 3D printed parts.
-This project is currently only aimed at the Airvo 2 Optiflow system.
+This project is dedicated to doubling the capacity for High Flow Nasal Oxygen (HFNO) treatment by simultaneously connecting two COVID-19 patients to one HFNO-device by adding 3D printed parts.
+This project is currently only aimed at the Airvo™ 2 Optiflow™ system (Fisher & Paykel Healthcare Limited, Berkshire, United Kingdom).
 
 ![SHFNO Schematic setup](Meta/Schematics%20and%20Renders/SHFNOschema.png 'SHFNO Schematic setup')
 _Fig 1. SHFNO Schematic setup_
@@ -9,27 +9,27 @@ _Fig 1. SHFNO Schematic setup_
 **N.B. 1 This is an ongoing project and is not yet ready for use in patients.
 We hope that the project will be validated and ready for use around the 7th of April.**
 
-**N.B. 2 Even when ready this solution will be provided as is with no express or implied warranty.
+**N.B. 2 Even when finalized this solution will be provided as is with no express or implied warranty.
 In no event will the authors be held liable for any damages arising from the use of this solution.**
 
-**N.B. 3 This project is not done in conjuction, collaboration or influence of the original manufacturer of any equipment, medical or otherwise.**
+**N.B. 3 This project is not done in conjuction or collaboration with, nor under the influence of the original manufacturer of any equipment, medical or otherwise.**
 
 ### Status / Progress
 
-- [x] Develop Solution
-- [x] Risk Assesment
+- [x] Develop solution
+- [x] Risk assessment
 - [x] Medical instructions (Swedish)
 - [x] Medical instructions (English) (_First version published_)
 - [ ] Validation of prototypes (_Ongoing_)
-- [ ] First clinically aimed production (Aimed at April 5th)
-- [ ] Roll out (Aimed at April 7th)
+- [ ] First clinically aimed production
+- [ ] Roll out
 
 ## Summary
 
-HFNO is a valuable treatment in the ongoing COVID-19 pandemic. It's importance has risen as many healthcare systems now recommend against using more readily available Non Invasive Ventilation (e.g. BiPAP). The access to HFNO is severely limited. General treatment guidelines for COVID-19 now stipulate maximum treatment levels of 30 litres / minute. The standard HFNO device Airvo 2 ("Optiflow") is capable of outputting 60 litres / minute but uses only proprietary connectors and cannot be connected to other devices.
-**The basic premise of this project is to provide 3D-printable parts to be able to split the Airvo 2 HFNO treatment between to patients, thus doubling the treatment capacity.** This should not be used if _**any**_ other method of providing HFNO exists!
+HFNO is a valuable treatment in the ongoing COVID-19 pandemic. Its importance has risen as many healthcare systems now discourage using more readily available Non Invasive Ventilation (e.g. BiPAP). Access to HFNO is severely limited. Treatment guidelines for COVID-19 now stipulate maximum treatment levels of 30 litres / minute. The popular HFNO device Airvo™ 2 ("Optiflow") has a maximum capacity of 60 litres / minute but uses only proprietary connectors and cannot be connected to other devices.
+**The basic premise of this project is to provide 3D-printable parts to be able to split the Airvo™ 2 HFNO air flow to enable the system to treat two patients simultaneuosly, thus doubling the treatment capacity.** This should not be used if _**any**_ other method of providing HFNO exists!
 
-This project provides both the 3D-models of parts needed for split HFNO treatment as well as _**suggested**_ instructions for use and manufacture. We also aim to continuously provide the validation from both simulations / calculations as well as real world usage (when ready).
+This project provides both the 3D-models of parts needed for split HFNO treatment as well as _**suggested**_ instructions for use and manufacturing instructions. We also aim to continuously provide the validation from both simulations / calculations as well as real world usage (when ready).
 
 ![Render of T-Shaped Connector](Meta/Schematics%20and%20Renders/T-front.png 'Render of T-Shaped Connector')
 _Fig 2. Render of the T-shaped connector that enables SHFNO_
