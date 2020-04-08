@@ -17,7 +17,8 @@
 - 2 x Smaller 22mm to Optiflow adapter – ”Adapter”
 - 2 x Cleaned 50 cl PET bottle – ”Collection bottle"
 - 2 x Cable Tie (at least 100 mm in length)
-- (Optional Red standard sized airway plug)
+- (Optional: standard Or printable 15mm plug)
+- (Optional: printable PET plug)
 - Sterile water, 1000 ml.
 
 _\*N.B. That the Air Spiral tube generally comes in a set with a water chamber ("Tube & Chamber Kit"), only one of which is used in the SHFNO setup._
@@ -27,12 +28,12 @@ Fig 1. Schematic illustration of T-Connector
 
 ### Setup
 
+1. Attach (screw into place) two empty collection bottles to the ports on bottom of the T-connector, labeled D and E (will only fit these ports).
+1. Attach the concave back of the T-Connector to the pole stand, slightly above and contralaterally to the Airvo 2. The T-Connector should be mounted below patient height. The T-connector should be oriented so that the collection bottles point downward and the AirSpiral tube connects to the top of the T-connector. Secure the T-connector to the pole using two cable ties which can be treaded through the holes on the back of the T-connector.
 1. Prepare the water chamber by removing the blue port caps and fitting the supplied adapter. Fit the water chamber to the Airvo 2, ensure that the chamber clicks into place.
 1. Connect the sterile water bag to the water chamber.
 1. Connect the AirSpiral tube to the Airvo 2 and lock it into place by pushing down on sleeve.
-1. Attach the distal end of the AirSpiral tube to the port on the top of the T-Connector, labeled "A" (will only fit this port).
-1. Attach (screw into place) two empty collection bottles to the ports on bottom of the T-connector, labeled D and E (will only fit these ports).
-1. Attach the concave back of the T-Connector to the pole stand, slightly above and contralaterally to the Airvo 2. The T-Connector should be mounted below patient height. The T-connector should be oriented so that the collection bottles point downward and the AirSpiral tube connects to the top of the T-connector. Secure the T-connector to the pole using two cable ties which can be treaded through the holes on the back of the T-connector.
+1. Attach the distal end of the AirSpiral tube to the port on the top of the T-Connector, labeled "A" (will only fit this port). If possible, loop over the top of the pole stand so that condensation is allowed to drain either to the Airvo 2 or the collection bottles.
 1. Connect the BiPAP / CPAP tubing to the two remaining ports on the T-connector (labeled B and C)†.
 1. (If "Tube Socks" are available, attach these to each of the tubings,)
 1. Attach Adapter to the distal end of each BiPAP / CPAP tube.
