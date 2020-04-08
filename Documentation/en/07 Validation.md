@@ -20,7 +20,7 @@ While several steps have been taken to address condensation it is notable that h
 |Slosh at 0 lpm| Slosh at 60 lpm|
 |---|---|
 |[**View simulation video**](../../Validation/Slosh/1x%20slosh%200lps-1.mp4)|[**View Simulation Video**](../../Validation/Slosh/2x%20slosh%2060lps-1.mp4)
-When removing excess build up of condensation toward the collection bottles at 0 lpm our simulations show that a tiny amount of fluid is able to pass the separator between the bottles. This is only possible at 0 lpm, with large amounts of fluid and if fluid is returned at high speed. During use at full flow, excess condensation might
+|When removing excess build up of condensation toward the collection bottles at 0 lpm our simulations show that a tiny amount of fluid is able to pass the separator between the bottles. This is only possible at 0 lpm, with large amounts of fluid and if fluid is returned at high speed.|During use at full flow, excess condensation might
 
 <br /><br /><br /><br />
 
