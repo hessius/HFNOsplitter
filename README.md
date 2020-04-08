@@ -6,23 +6,22 @@ This project is currently only aimed at the Airvo™ 2 Optiflow™ system (Fishe
 ![SHFNO Schematic setup](Meta/Schematics%20and%20Renders/SHFNOschema.png 'SHFNO Schematic setup')
 _Fig 1. SHFNO Schematic setup_
 
-**N.B. 1 This is an ongoing project and is not yet ready for use in patients.
-We hope that the project will be validated and ready for use around the 7th of April.**
-
-**N.B. 2 Even when finalized this solution will be provided as is with no express or implied warranty.
+**N.B. 1 This solution is provided as is with no express or implied warranty.
 In no event will the authors be held liable for any damages arising from the use of this solution.**
 
-**N.B. 3 This project is not done in conjuction or collaboration with, nor under the influence of the original manufacturer of any equipment, medical or otherwise.**
+**N.B. 2 This project is not done in conjuction or collaboration with, nor under the influence of the original manufacturer of any equipment, medical or otherwise.**
+
+**N.B. 3 While this solution has now been taken into use we are still actively developing. If your needs or setups is not met, please reach out and maybe we will be able to help you out.**
 
 ### Status / Progress
 
 - [x] Develop solution
 - [x] Risk assessment
 - [x] Medical instructions (Swedish)
-- [x] Medical instructions (English) (_First version published_)
-- [ ] Validation of prototypes (_Ongoing_)
-- [ ] First clinically aimed production
-- [ ] Roll out
+- [x] Medical instructions (English)
+- [x] Validation of prototypes (_Further validation ongoing even after launch_)
+- [x] First clinically aimed production
+- [x] Roll out (_First standby usage 2020-04-09_)
 
 ## Summary
 
@@ -43,7 +42,8 @@ _Fig 2. Render of the T-shaped connector that enables SHFNO_
 1. [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/04%20Setup%20and%20Treatment.md))
 1. [**Troubleshooting**](Documentation/en/05%20Troubleshooting.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/05%20Troubleshooting.md))
 1. [**Hygiene**](Documentation/en/06%20Hygiene.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/06%20Hygiene.md))
-1. [**FAQ**](Documentation/en/07%20FAQ.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/07%20FAQ.md))
+1. [**Validation**](Documentation/en/07%20Validation.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/07%20Validation.md))
+1. [**FAQ**](Documentation/en/08%20FAQ.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/08%20FAQ.md))
 
 ## Demo
 

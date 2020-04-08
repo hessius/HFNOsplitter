@@ -23,4 +23,4 @@
 
 ---
 
-### [**Troubleshooting**](05%20Troubleshooting.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**FAQ**](07%20FAQ.md)
+### [**Troubleshooting**](05%20Troubleshooting.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**Validation**](07%20Validation.md)
