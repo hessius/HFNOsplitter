@@ -31,7 +31,7 @@ This AR demo, only available on iOS, shows the 3D printed parts (for a standard 
 
 ## [Launch AR-Demo](https://github.com/hessius/HFNOsplitter/blob/master/Meta/Other/Complete%20Set%20-%20Orientation.usdz?raw=true)
 
-## Instructions for manufacture
+## Manufacturing Instructions
 
 These prints are made to be printed using readily available resin 3D-printing methods. We recommend using SLA methods, specifically these instructions are based on the Formlabs Form 2 / 3 printers.
 
