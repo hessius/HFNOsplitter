@@ -55,9 +55,18 @@ For all parts we recommend that you turn off internal supports. For the T-connec
 
 For the adapters we recommend that you raise them slightly off the print bed, with the 22mm coupling facing the build plate straight on. This way, support can be avoided on all critical surfaces, ensuring the best possible tolerance level.
 
-| Complete set on build plate | Adapter straight up with support |  T-coupling angled with support |
-| --------------------------- | -------------------------------- | ------------------------------- |
+| Complete set on build plate                                                                                                                  | Adapter straight up with support                                                                                                       | T-coupling angled with support                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | ![One complete set on a build plate](../../Meta/Schematics%20and%20Renders/Buildplate-one-set-Form3.png 'One complete set on a build plate') | ![Adapter straight up with support](../../Meta/Schematics%20and%20Renders/adapter-with-support.png 'Adapter straight up with support') | ![T-Coupling angled with support](../../Meta/Schematics%20and%20Renders/T-coupling.png 'T-Coupling angled with support') |
+
+### Changelog
+
+| **Date**   | **Changes**                                                           |
+| ---------- | --------------------------------------------------------------------- |
+| 2020-04-05 | - Change B and C ports to 15mm                                        |
+| 2020-04-08 | - Rename STL-files (M/F -> Optiflow/AirSpiral & M/F -> 15mm/22mm)     |
+|            | - Add plugs to set.                                                   |
+|            | - Add slight modifications to B, C, D, and E to better fit with plugs |
 
 <br /><br /><br /><br />
 
