@@ -10,12 +10,17 @@ It also features two drainage points to collect condensation. Two PET bottles ar
 
 The design features clear markings so that the setup can be as easy and reliable as possible (also, each connector can only fit in the correct place).
 
-On the back of the connector there as concave surface that fits the pole stand included with the Airvo 2 as well as holes for cable ties.
-| CAD view - Front | CAD view - Cross section |
-|:----------------------------------------------------------------------------------------------------------------: |----------------------------------------------------------------------------------------------------------------------- |
+|                                                 CAD view - Front                                                 | CAD view - Cross section                                                                                              |
+| :--------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- |
 | ![T-Shaped Connector Shell](../../Meta/Schematics%20and%20Renders/Sideview_v3.png 'CAD view T-Shaped Connector') | ![T-Shaped Connector Cross Section](../../Meta/Schematics%20and%20Renders/Cutaway_v3.png 'Cross Section T-connector') |
 
-N.B. the T-connector is available in both a male and female configuration, for the standard setup we recommend using the Male version.
+The T-connector is currently available in two mounting options, using the standard ISO-19054:2006 mounting rack (that the Airvo itself uses) as well as a version using cable ties. We are shortly releasing a unified model conforming to both the ISO-19054:2006 standard as well as enabling fastening with cable ties.
+
+|                                             ISO-19054:2006 Mount                                             | Zip tie mount (female version)                                                                                         |
+| :----------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
+| ![T-Connector back ISO-mount](../../Meta/Schematics%20and%20Renders/T-back.png 'T-Connector back ISO-mount') | ![T-Connector back cable tie mount](../../Meta/Schematics%20and%20Renders/T-alt-Back.png 'T-Connector back ISO-mount') |
+
+N.B. the cable tie mounted T-connector is available in both a male and female configuration, for the standard setup we recommend using the Male version.
 
 ### Adapters
 
@@ -67,6 +72,8 @@ For the adapters we recommend that you raise them slightly off the print bed, wi
 | 2020-04-08 | - Rename STL-files (M/F -> Optiflow/AirSpiral & M/F -> 15mm/22mm)     |
 |            | - Add plugs to set.                                                   |
 |            | - Add slight modifications to B, C, D, and E to better fit with plugs |
+| 2020-04-10 | - Version bump: V4                                                    |
+|            | - Add new mounting slot, ISO-19054:2006 compatible                    |  |
 
 <br /><br /><br /><br />
 
