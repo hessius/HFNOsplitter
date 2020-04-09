@@ -1,6 +1,6 @@
 ## Models
 
-These designs have all been made from scratch for this project. They use no prioprietary or 3D-scanned information. They are based on ISO standards when applicable. All CAD work has been performed by Erik Cederberg at 3Dverkstan on behalf of the project.
+These designs have all been made from scratch for this project. They use no prioprietary or 3D-scanned information. They are based on ISO standards when applicable - ISO-5356 for connectors and ISO-19054:2006 for mounts. All CAD work has been performed by Erik Cederberg at 3Dverkstan on behalf of the project.
 
 ### T-Connector
 
