@@ -6,7 +6,7 @@ This project is currently only aimed at the Airvo™ 2 Optiflow™ system (Fishe
 ![SHFNO Schematic setup](Meta/Schematics%20and%20Renders/SHFNOschema.png 'SHFNO Schematic setup')
 _Fig 1. SHFNO Schematic setup_
 
-**N.B. 1 This solution is provided as is with no express or implied warranty.
+**N.B. 1 This solution is provided as is with no express or implied warranty. _[Provided under the CERN-OHL-S license](LICENSE_cern_ohl_s_v2.pdf)_.
 In no event will the authors be held liable for any damages arising from the use of this solution.**
 
 **N.B. 2 This project is not done in conjuction or collaboration with, nor under the influence of the original manufacturer of any equipment, medical or otherwise.**
@@ -67,3 +67,7 @@ This AR demo, only available on iOS, shows the 3D printed parts in actual size i
 ### [3Dverkstan](http://3dverkstan.se) for providing their time, effort, expertise and printers for this project. Without them none of this would have happened.
 
 All the online communities, doctors, nurses and medical technicians who have provided their input and knowledge into every step of this process.
+
+## License
+
+**[Provided under the CERN-OHL-S license](LICENSE_cern_ohl_s_v2.pdf).**
