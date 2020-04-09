@@ -2,8 +2,8 @@
 
 Treating two patients in parallell with HFNO using the Airvo 2 system is possible due to
 
-1. Treatment guidelines that stipulate a maximum flow of 30 litres/minute
-2. The Airvo 2 system being capable of outputting 60 litres/minute
+1. Treatment guidelines that stipulate a maximum flow should be kept as low as possible to avoid / minimise aerosol dispersion.
+2. The Airvo 2 system being capable of outputting 60 litres/minute (well above recommended maximum air flow)
 
 Treating two patients in parallell with HFNO using the Airvo 2 system is feasible due to
 
@@ -26,13 +26,13 @@ Used timely and correctly in the context of COVID-19 a patient can in the best c
 
 The main system in use outside of the ICU is the Fisher & Paykel Airvo 2, often called "**Optiflow**", which to be precise is the special nasal cannula used with the system. The Airvo is capable of outputting 2-60 litres / minute of airflow with 21-100% FiO2 and uses wholly proprietary connectors which are not readily available and cannot be used with standardised respiratory equipment.
 
-IDAS recommends limiting the HFNO air flow in COVID-19 patients to 30 litres / minute due to risk of aeorosolisation and the FiO2 to 50 % due to the risk of alveolar collapse. **Thus the Airvo 2 is _theoretically_ capable of supplying two patients with HFNO without impeding the maximum levels of treatment.**
+IDAS, as well as the [Karolinska University Hospital](https://strummet.files.wordpress.com/2020/03/pmi-karolinska-covid-19-lungsvikt-intubation-ventilatorbeh-2020-03-19.pdf) both recommend limiting the HFNO air flow in COVID-19 patients to 30 litres / minute due to risk of aeorosolisation and the FiO2 to 50 % due to the risk of alveolar collapse. Some hospitals, like Västmanland Hospital Västerås (where this project orginated), have subsequently modified these guidelines based on clinical experience to allow higher FiO2 as well as in some cases higher air flows. Even so, **the Airvo 2 is _theoretically_ capable of supplying two patients with HFNO without impeding the maximum levels of treatment** according to major guidelines.
 
 HFNO systems are well suited for split airflow, substantially more so than ventilators, CPAP, or BiPAP. This is due to the open nature of the system which causes patient factors (e.g. airway resistance) to have minimal impact on the air flow. The unidirectionality of the air flow means that no air is shared between patients, even without added filtration. Even so, it is the authors' suggestion that the only patients eligible for treatment with Split HFNO (Hereon "**SHFNO**") are patients suffering from the same disease, i.e. COVID-19, which also means that potential cross contamination across patients is less significant. We further recommend against using SHFNO for patients with _confirmed_ secondary bacterial infections as well as for carriers of drug resistant bacteria.
 
 **While every health care provider utilising SHFNO will need to ensure that they have medical instructions for use in place, these guidelines are provided as an example, which is subject to change and without any liability. These examples are based on the medical instructions for use from Västmanland Hospital Västerås, in Sweden where the project originated.**
 
-In the setup of SHFNO both patients receive identical treatment, in the (hitherto limited) clinical experience of the authors, COVID-19 patients treated under the recommendations above are invariably using HFNO titrated to very similar flows and FiO2. For suggestions on how to start treatment with HFNO / SHFNO please see the provided on [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/04%20Setup%20and%20Treatment.md)).
+In the setup of SHFNO both patients receive identical treatment, in the (hitherto limited) clinical experience of the authors, COVID-19 patients treated under the recommendations above are invariably using HFNO titrated to similar flows and FiO2. For suggestions on how to start treatment with HFNO / SHFNO please see the provided on [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/04%20Setup%20and%20Treatment.md)).
 
 ### To enable SHFNO we provide 3D models of
 
@@ -43,7 +43,7 @@ In the setup of SHFNO both patients receive identical treatment, in the (hithert
 
 It is our recommendation that these models be printed using high quality resin approved for medical use. Please see part 3 of this documentation, [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/03%20Models%20and%20Instructions.md)) for more details.
 
-_Aside from the main set provided are also models of other adapters as well as an alternate T-shaped connector enabling the proprietary connectors to connect to other standardised connectors as setup might differ across hospitals._
+_Aside from the main set provided are also models of plugs for the B/C, D/E ports as well as other adapters and an alternate T-shaped connector enabling the proprietary connectors to connect to other standardised connectors as setup might differ across hospitals._
 
 <br /><br /><br /><br />
 

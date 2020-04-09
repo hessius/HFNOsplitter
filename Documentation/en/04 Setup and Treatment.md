@@ -49,6 +49,8 @@ Fig 1. Schematic illustration of T-Connector
 
 ## Initiation of Treatment
 
+_N.B. These are provided as suggestions and should be adapted to local guidelines before this project is put to use_
+
 ### Starting SHFNO
 
 - Airflow is started at 60 litres / minute in the Airvo 2 system which delivers 30 litres / minute to each patient.
