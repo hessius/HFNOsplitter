@@ -34,12 +34,12 @@ Fig 1. Schematic illustration of T-Connector
 1. Connect the sterile water bag to the water chamber.
 1. Connect the AirSpiral tube to the Airvo 2 and lock it into place by pushing down on sleeve.
 1. Attach the distal end of the AirSpiral tube to the port on the top of the T-Connector, labeled "A" (will only fit this port). If possible, loop over the top of the pole stand so that condensation is allowed to drain either to the Airvo 2 or the collection bottles.
-1. Connect the BiPAP / CPAP tubing to the two remaining ports on the T-connector (labeled B and C)†.
+1. Connect the BiPAP/CPAP tubing to the two remaining ports on the T-connector (labeled B and C)†.
 1. (If "Tube Socks" are available, attach these to each of the tubings,)
-1. Attach Adapter to the distal end of each BiPAP / CPAP tube.
+1. Attach Adapter to the distal end of each BiPAP/CPAP tube.
 1. Attach Optiflow nasal cannula to each adapter.
 1. Attach oxygen aggregate to oxygen outlet.
-1. Ready to initiate treatment!
+1. The setup is now ready to initiate treatment!
 
 †When starting HFNO with an SHFNO prepared setup, one side (B or C) of the T-connector is plugged. N.B. that both collection bottles are still needed.
 
@@ -49,11 +49,11 @@ Fig 1. Schematic illustration of T-Connector
 
 ## Initiation of Treatment
 
-_N.B. These are provided as suggestions and should be adapted to local guidelines before this project is put to use_
+_N.B. These are provided as suggestions and should be adapted to local guidelines before SHFNO is put to use._
 
 ### Starting SHFNO
 
-- Airflow is started at 60 litres / minute in the Airvo 2 system which delivers 30 litres / minute to each patient.
+- Airflow is started at 60 litres/minute in the Airvo 2 system which delivers 30 litres/minute to each patient.
 - FiO2 is started at 50% in the Airvo 2 system which delivers 50 % to each patient.
   - N.B. FiO2 is titrated as usual, FiO2 will be consistent between both patients and the Airvo 2 display
 - Set temperature to 37 °C. If needed the temperature can be lowered to 34 °C.
@@ -64,7 +64,7 @@ _N.B. These are provided as suggestions and should be adapted to local guideline
 - Setup according to steps above until you reach T-connector.
 - Connect standard airway plug to empty side (at port labeled B or C) of T-connector
 - Connect the rest of the T-connector as described above.
-- Airflow is tarted at 30 litres / minute in the Airvo 2 system.
+- Airflow is started at 30 litres/minute in the Airvo 2 system.
 - FiO2 is started at 50% in the Airvo 2 system.
 - Set temperature to 37 °C. If needed the temperature can be lowered to 34 °C.
 - Titrate FiO2 to keep patient within desired saturation range.
@@ -77,33 +77,33 @@ _N.B. Water chamber and AirSpiral tube does not need to be changed if the setup 
 - Connect Optiflow cannula to adapter (ensuring that it's of the same size as the other cannula in use).
 - Attach nasal cannula to patient.
 - Remove airway plug from T-connector and attach the prepared CPAP/BiPAP tube.
-- Increase the airflow to 60 litres / minute.
+- Increase the airflow to 60 litres/minute.
 - Titrate O2 to desired level.
 
 ### Transitioning from HFNO to SHFNO
 
-_In order to decrease down time and ensure hygienic routines are being kept, whenever possible transition from HFNO to SHFNO should be carried out by switching Airvo 2 systems. N.B. when transitioning a patient their Optiflow Nasal Cannula is kept, however water chamber and AirSpiral tube cannot be reused._
+_In order to decrease down time and ensure hygienic routines are being maintained, whenever possible transition from HFNO to SHFNO should be carried out by switching Airvo 2 systems. N.B. when transitioning a patient their Optiflow Nasal Cannula is kept, however water chamber and AirSpiral tube cannot be reused._
 
 - Connect according to instructions above until having connected adapters to the distal end of the CPAP / BiPAP tube.
 - If either of the patients is starting their treatment with SHFNO, rather than transitioning from HFNO, finish their setup according to the instructions above.
 - Transition the Optiflow nasal cannula(e) already in use to the SHFNO-setup.
-- Follow instuctions "Starting SHFNO" and titrate desired treatment levels
+- Follow instructions "Starting SHFNO" and titrate desired treatment levels
 
 ### Transitioning from SHFNO to HFNO
 
-- Check for condensation throuhgout the tube system and make sure that any accumulation of fluid flows back to the collection bottles.
+- Check for condensation throughout the tube system and make sure that any accumulation of fluid flows back to the collection bottles.
 - Stop Airvo 2 flow as well as oxygen supply.
 - Remove CPAP / BiPAP tube from T-connector and attach standard plug.
 - Change collection bottle for the affected side of the setup
-  - _N.B. Both sides need colection bottles._
+  - _N.B. The inactive side needs either a collection bottle or a PET plug (model available as optional part of main set)._
 - Start HFNO according to instruction "Starting HFNO with an SHFNO prepared setup"
 
 ## Condensation
 
-Be observant to any condensation within the tube system. In SHFNO the condensation is increased and water can accumulate within the CPAP / BiPAP tube.
-2 times per shift, or around every 4 hours, the CPAP / BiPAP tube should be checked and raised in a matter ensuring that any fluid collection is helped to flow back to the collection bottle.
+Be observant to any condensation within the tube system. In SHFNO the condensation increases and water can accumulate within the CPAP/BiPAP tube.
+Two times per shift, or around every 4 hours, the CPAP/BiPAP tube should be checked and raised in a matter ensuring that any fluid collection is helped to flow back to the collection bottle.
 
-The collection bottle should be emptied before filling completely. It does not need cleaning when continuing treatment on the same patient after emptying. Make sure to reduce downtime by either removing the bottle and emptying it into another container and promptly screwing the bottle back on. If no other container is available the bottle should be removed and another one attached to the system before disposing of the fluid collection. _N.B. The system needs both bottles attached in order to function properly_
+The collection bottle should be emptied before filling completely. It does not need cleaning when continuing treatment on the same patient after emptying. Make sure to reduce downtime by either removing the bottle and emptying it into another container and promptly screwing the bottle back on. If no other container is available, the bottle should be removed and another one attached to the system before disposing of the fluid collection. _N.B. The system needs both bottles attached in order to function properly_.
 
 If possible, try to orient the CPAP and BiPAP tubes in a way that condensation can continuously flow back to the collection bottle. If a screen is used to divide patients, note that the tube cannot be passed over the screen as this affects flow of condensation.
 

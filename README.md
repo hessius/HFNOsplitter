@@ -7,7 +7,7 @@ This project is currently only aimed at the Airvo™ 2 Optiflow™ system (Fishe
 _Fig 1. SHFNO Schematic setup_
 
 **N.B. 1 This solution is provided as is with no express or implied warranty. _[Provided under the CERN-OHL-S license](LICENSE_cern_ohl_s_v2.pdf)_.
-In no event will the authors be held liable for any damages arising from the use of this solution.**
+In no event will the authors be held liable for any damages arising from the use of this solution.** _[**Legal notice**](Documentation/en/00%20About%20This%20Documentation.md)._
 
 **N.B. 2 This project is not done in conjuction or collaboration with, nor under the influence of the original manufacturer of any equipment, medical or otherwise.**
 
