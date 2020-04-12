@@ -68,8 +68,8 @@ For the adapters and plugs, we recommend that you raise them slightly off the pr
 
 | **Date**   | **Changes**                                                           |
 | ---------- | --------------------------------------------------------------------- |
-| 2020-04-05 | - Change B and C ports to 15mm                                        |
-| 2020-04-08 | - Rename STL-files (M/F -> Optiflow/AirSpiral & M/F -> 15mm/22mm)     |
+| 2020-04-05 | - Change B and C ports to 22mm male                                   |
+| 2020-04-08 | - Rename STL-files (M/F -> Optiflow/AirSpiral)                        |
 |            | - Add plugs to set.                                                   |
 |            | - Add slight modifications to B, C, D, and E to better fit with plugs |
 | 2020-04-10 | - Version bump: V4                                                    |
