@@ -53,14 +53,15 @@ This AR demo, only available on iOS, shows the 3D printed parts in actual size i
 
 ## Working group
 
-| Name                                              | Role                                                                   |
-| ------------------------------------------------- | ---------------------------------------------------------------------- |
-| **Jesper Hessius**, Region Västmanland (Västerås) | Project initiator and MD, resident in internal medicine and cardiology |
-| **Per Nordqvist**, MT, SUS, Region Skåne          | Engineer, regulatory, documentation, risk analysis                     |
-| **Einar Heiberg**, Klinfys, Lund                  | Engineer, 3D printing, regulatory, all-in-all                          |
-| **Petter Frieberg**, Klinfys, Lund                | MD, Engineer, Flow simulations                                         |
-| **Erik Cederberg**, 3Dverkstan                    | CAD and design                                                         |
-| **Erik Ekbom**, BFT, SUS                          | 3D printing                                                            |
+| Name                | Title                                         | Place of Work                                                            | Role in Project                                                 |
+| ------------------- | --------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **Jesper Hessius**  | MD, Internal Medicine and Cardiology Resident | Västmanland Hospital Västerås, Region Västmanland                        | Project initiator and coordinator, documentation, risk analysis |
+| **Erik Cederberg**  | Chief Engineer                                | 3Dverkstan                                                               | CAD and design                                                  |
+| **Erik Ekbom**      | Biomedical Engineer                           | Imaging and Functional Technology, Skåne University Hospital Lund        | 3D printing                                                     |
+| **Petter Frieberg** | MD, Engineer, PhD-Student                     | Clinical Physiology and Nuclear Medicine, Skåne University Hospital Lund | Validation and flow simulations                                 |
+| **Einar Heiberg**   | Associate Professor, engineer                 | Clinical Physiology, Skåne University Hospital Lund                      | 3D printing, regulatory affairs                                 |
+| **Per Nordqvist**   | Biomedical Engineer                           | Department of Medical Technology Skåne, Region Skåne                     | Regulatory affairs, documentation, risk analysis                |
+| **Göran Petersson** | Biomedical Engineer                           | Department of Medical Technology Skåne, Region Skåne                     | Validation and documentation                                    |
 
 ## Thanks to
 
