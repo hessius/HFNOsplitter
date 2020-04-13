@@ -16,8 +16,8 @@ The design features clear markings so that the setup can be as easy and reliable
 
 The T-connector provided has a unified mount conforming the ISO-19054:2006 rail mount standard as well as enabling fastening with cable ties. The previous ziptie-only mount for the Airvo pole is therefore considered deprecated.
 
-|                                         ISO-19054:2006 / Zip tie unified mount (male)                                          | Zip tie mount (female)                                                                                                 |
-| :----------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
+|                                                ISO-19054:2006 / Zip tie unified mount (male)                                                 | Zip tie mount (female)                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
 | ![T-Connector back ISO-mount](../../Meta/Schematics%20and%20Renders/T-Coupling-V4/V4-Backside-Combimount.png 'T-Connector back Combi-mount') | ![T-Connector back cable tie mount](../../Meta/Schematics%20and%20Renders/T-alt-Back.png 'T-Connector back ISO-mount') |
 
 N.B. the cable tie mounted T-connector is available in both a male and female configuration, for the standard setup we recommend using the male configuration.
@@ -75,9 +75,3 @@ For the adapters and plugs, we recommend that you raise them slightly off the pr
 | 2020-04-10 | - Version bump: V4                                                    |
 |            | - Add new ISO-19054:2006 compatible mounting slot                     |
 | 2020-04-13 | - Add new "combimount" compatible with ISO-19054:2006 and zip ties    |  |
-
-<br /><br /><br /><br />
-
----
-
-### [**Preparation**](02%20Preparation.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**Setup and Treatment**](04%20Setup%20and%20Treatment.md)
