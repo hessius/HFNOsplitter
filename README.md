@@ -1,4 +1,4 @@
-# Welcome to the HFNOsplitter project
+# Welcome to the HFNOsplitter project - SHFNO.org
 
 This project is dedicated to doubling the capacity for High Flow Nasal Oxygen (HFNO) treatment by simultaneously connecting two COVID-19 patients to one HFNO-device by adding 3D printed parts.
 This project is currently only aimed at the Airvo™ 2 Optiflow™ system (Fisher & Paykel Healthcare Limited, Berkshire, United Kingdom).
@@ -35,15 +35,25 @@ _Fig 2. Render of the T-shaped connector that enables SHFNO_
 
 ## Documentation
 
-0. [**About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md) (view as [pdf](Documentation/en/pdf/00%20About%20This%20Documentation.pdf))
-1. [**Overview - Introduction**](Documentation/en/01%20Overview%20-%20Introduction.md) (as [pdf](Documentation/en/pdf/01%20Overview%20-%20Introduction.pdf))
-1. [**Preparation**](Documentation/en/02%20Preparation.md) (as [pdf](Documentation/en/pdf/02%20Preparation.pdf))
-1. [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md) (as [pdf](Documentation/en/pdf/03%20Models%20and%20Instructions.pdf))
-1. [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md) (as [pdf](Documentation/en/pdf/04%20Setup%20and%20Treatment.pdf))
-1. [**Troubleshooting**](Documentation/en/05%20Troubleshooting.md) (as [pdf](Documentation/en/pdf/05%20Troubleshooting.pdf))
-1. [**Hygiene**](Documentation/en/06%20Hygiene.md) (as [pdf](Documentation/en/pdf/06%20Hygiene.pdf))
-1. [**Validation**](Documentation/en/07%20Validation.md) (as [pdf](Documentation/en/pdf/07%20Validation.pdf))
-1. [**FAQ**](Documentation/en/08%20FAQ.md) (as [pdf](Documentation/en/pdf/08%20FAQ.pdf))
+English:
+
+0. [**About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md) (view as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/00%20About%20This%20Documentation.pdf))
+1. [**Overview - Introduction**](Documentation/en/01%20Overview%20-%20Introduction.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/01%20Overview%20-%20Introduction.pdf))
+1. [**Preparation**](Documentation/en/02%20Preparation.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/02%20Preparation.pdf))
+1. [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/03%20Models%20and%20Instructions.pdf))
+1. [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/04%20Setup%20and%20Treatment.pdf))
+1. [**Troubleshooting**](Documentation/en/05%20Troubleshooting.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/05%20Troubleshooting.pdf))
+1. [**Hygiene**](Documentation/en/06%20Hygiene.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/06%20Hygiene.pdf))
+1. [**Validation**](Documentation/en/07%20Validation.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/07%20Validation.pdf))
+1. [**FAQ**](Documentation/en/08%20FAQ.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/08%20FAQ.pdf))
+
+Swedish:
+
+Available [**here**](https://github.com/hessius/HFNOsplitter/tree/master/Documentation/sv).
+
+# [Download]()
+
+_Includes all models as well as documentation in English in pdf-format._
 
 ## Demo
 
