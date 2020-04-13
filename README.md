@@ -1,4 +1,4 @@
-# Welcome to the HFNOsplitter project
+# Welcome to the HFNOsplitter project - SHFNO.org
 
 This project is dedicated to doubling the capacity for High Flow Nasal Oxygen (HFNO) treatment by simultaneously connecting two COVID-19 patients to one HFNO-device by adding 3D printed parts.
 This project is currently only aimed at the Airvo™ 2 Optiflow™ system (Fisher & Paykel Healthcare Limited, Berkshire, United Kingdom).
@@ -35,15 +35,25 @@ _Fig 2. Render of the T-shaped connector that enables SHFNO_
 
 ## Documentation
 
-0. [**About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md) (view as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/00%20About%20This%20Documentation.md))
-1. [**Overview - Introduction**](Documentation/en/01%20Overview%20-%20Introduction.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/01%20Overview%20-%20Introduction.md))
-1. [**Preparation**](Documentation/en/02%20Preparation.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/02%20Preparation.md))
-1. [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/03%20Models%20and%20Instructions.md))
-1. [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/04%20Setup%20and%20Treatment.md))
-1. [**Troubleshooting**](Documentation/en/05%20Troubleshooting.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/05%20Troubleshooting.md))
-1. [**Hygiene**](Documentation/en/06%20Hygiene.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/06%20Hygiene.md))
-1. [**Validation**](Documentation/en/07%20Validation.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/07%20Validation.md))
-1. [**FAQ**](Documentation/en/08%20FAQ.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/08%20FAQ.md))
+English:
+
+0. [**About This Documentation**](Documentation/en/00%20About%20This%20Documentation.md) (view as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/00%20About%20This%20Documentation.pdf))
+1. [**Overview - Introduction**](Documentation/en/01%20Overview%20-%20Introduction.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/01%20Overview%20-%20Introduction.pdf))
+1. [**Preparation**](Documentation/en/02%20Preparation.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/02%20Preparation.pdf))
+1. [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/03%20Models%20and%20Instructions.pdf))
+1. [**Setup and Treatment**](Documentation/en/04%20Setup%20and%20Treatment.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/04%20Setup%20and%20Treatment.pdf))
+1. [**Troubleshooting**](Documentation/en/05%20Troubleshooting.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/05%20Troubleshooting.pdf))
+1. [**Hygiene**](Documentation/en/06%20Hygiene.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/06%20Hygiene.pdf))
+1. [**Validation**](Documentation/en/07%20Validation.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/07%20Validation.pdf))
+1. [**FAQ**](Documentation/en/08%20FAQ.md) (as [pdf](https://github.com/hessius/HFNOsplitter/raw/master/Documentation/en/pdf/08%20FAQ.pdf))
+
+Swedish:
+
+Available [**here**](https://github.com/hessius/HFNOsplitter/tree/master/Documentation/sv).
+
+# [Download](https://github.com/hessius/HFNOsplitter/archive/latest.zip)
+
+_Includes all models as well as documentation in English in pdf-format._
 
 ## Demo
 
@@ -53,14 +63,15 @@ This AR demo, only available on iOS, shows the 3D printed parts in actual size i
 
 ## Working group
 
-| Name                                              | Role                                                                   |
-| ------------------------------------------------- | ---------------------------------------------------------------------- |
-| **Jesper Hessius**, Region Västmanland (Västerås) | Project initiator and MD, resident in internal medicine and cardiology |
-| **Per Nordqvist**, MT, SUS, Region Skåne          | Engineer, regulatory, documentation, risk analysis                     |
-| **Einar Heiberg**, Klinfys, Lund                  | Engineer, 3D printing, regulatory, all-in-all                          |
-| **Petter Frieberg**, Klinfys, Lund                | MD, Engineer, Flow simulations                                         |
-| **Erik Cederberg**, 3Dverkstan                    | CAD and design                                                         |
-| **Erik Ekbom**, BFT, SUS                          | 3D printing                                                            |
+| Name                | Title                                         | Place of Work                                                            | Role in Project                                                 |
+| ------------------- | --------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **Jesper Hessius**  | MD, Internal Medicine and Cardiology Resident | Västmanland Hospital Västerås, Region Västmanland                        | Project initiator and coordinator, documentation, risk analysis |
+| **Erik Cederberg**  | Chief Engineer                                | 3Dverkstan                                                               | CAD and design                                                  |
+| **Erik Ekbom**      | Biomedical Engineer                           | Imaging and Functional Technology, Skåne University Hospital Lund        | 3D printing                                                     |
+| **Petter Frieberg** | MD, Engineer, PhD-Student                     | Clinical Physiology and Nuclear Medicine, Skåne University Hospital Lund | Validation and flow simulations                                 |
+| **Einar Heiberg**   | Associate Professor, engineer                 | Clinical Physiology, Skåne University Hospital Lund                      | 3D printing, regulatory affairs                                 |
+| **Per Nordqvist**   | Biomedical Engineer                           | Department of Medical Technology Skåne, Region Skåne                     | Regulatory affairs, documentation, risk analysis                |
+| **Göran Petersson** | Biomedical Engineer                           | Department of Medical Technology Skåne, Region Skåne                     | Validation and documentation                                    |
 
 ## Thanks to
 
