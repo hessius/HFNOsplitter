@@ -14,11 +14,11 @@ The design features clear markings so that the setup can be as easy and reliable
 | :--------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- |
 | ![T-Shaped Connector Shell](../../Meta/Schematics%20and%20Renders/Sideview_v3.png 'CAD view T-Shaped Connector') | ![T-Shaped Connector Cross Section](../../Meta/Schematics%20and%20Renders/Cutaway_v3.png 'Cross Section T-connector') |
 
-The T-connector is currently available in two mounting options, using the standard ISO-19054:2006 mounting rack (that the Airvo itself uses) as well as a version using cable ties. We are shortly releasing a unified model conforming to both the ISO-19054:2006 standard as well as enabling fastening with cable ties.
+The T-connector provided has a unified mount conforming the ISO-19054:2006 rail mount standard as well as enabling fastening with cable ties. The previous ziptie-only mount for the Airvo pole is therefore considered deprecated.
 
-|                                         ISO-19054:2006 Mount (male)                                          | Zip tie mount (female)                                                                                                 |
+|                                         ISO-19054:2006 / Zip tie unified mount (male)                                          | Zip tie mount (female)                                                                                                 |
 | :----------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
-| ![T-Connector back ISO-mount](../../Meta/Schematics%20and%20Renders/T-back.png 'T-Connector back ISO-mount') | ![T-Connector back cable tie mount](../../Meta/Schematics%20and%20Renders/T-alt-Back.png 'T-Connector back ISO-mount') |
+| ![T-Connector back ISO-mount](../../Meta/Schematics%20and%20Renders/T-Coupling-V4/V4-Backside-Combimount.png 'T-Connector back Combi-mount') | ![T-Connector back cable tie mount](../../Meta/Schematics%20and%20Renders/T-alt-Back.png 'T-Connector back ISO-mount') |
 
 N.B. the cable tie mounted T-connector is available in both a male and female configuration, for the standard setup we recommend using the male configuration.
 
