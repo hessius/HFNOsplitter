@@ -1,6 +1,6 @@
 ## Status / Progress
 
-This is an ongoing project. In order to correctly prioritise we need you feedback
+This is an ongoing project. In order to correctly prioritise we need your feedback. Please [reach out](contact.html).
 
 ### Finished
 
@@ -12,6 +12,8 @@ This is an ongoing project. In order to correctly prioritise we need you feedbac
 - First clinically aimed production
 - Initialt roll out (_First standby usage 2020-04-09_)
 
+---
+
 ### Ongoing
 
 - Secondary validation
@@ -19,6 +21,8 @@ This is an ongoing project. In order to correctly prioritise we need you feedbac
   - Direct flow rate measurement
 - Design tweaking
   - Introduction of (optional) distal resistance to decrease importance of resistance introduced by e.g. condensation
+
+---
 
 ### Pending
 
