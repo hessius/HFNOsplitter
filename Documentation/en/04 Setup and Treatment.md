@@ -17,7 +17,7 @@
 - 2 x Smaller 22mm to Optiflow adapter – ”Adapter”
 - 2 x Cleaned 50 cl PET bottle – ”Collection bottle"
 - 2 x Cable Tie (at least 100 mm in length)
-- (Optional: standard Or printable 15mm plug)
+- (Optional: standard 22mm female plug or printable male plug)
 - (Optional: printable PET plug)
 - Sterile water, 1000 ml.
 
