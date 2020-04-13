@@ -73,7 +73,8 @@ For the adapters and plugs, we recommend that you raise them slightly off the pr
 |            | - Add plugs to set.                                                   |
 |            | - Add slight modifications to B, C, D, and E to better fit with plugs |
 | 2020-04-10 | - Version bump: V4                                                    |
-|            | - Add new ISO-19054:2006 compatible mounting slot                     |  |
+|            | - Add new ISO-19054:2006 compatible mounting slot                     |
+| 2020-04-11 | - Add new "combimount" compatible with ISO-19054:2006 and zip ties    |  |
 
 <br /><br /><br /><br />
 
