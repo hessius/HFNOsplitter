@@ -51,7 +51,7 @@ Swedish:
 
 Available [**here**](https://github.com/hessius/HFNOsplitter/tree/master/Documentation/sv).
 
-# [Download]()
+# [Download](https://github.com/hessius/HFNOsplitter/archive/latest.zip)
 
 _Includes all models as well as documentation in English in pdf-format._
 
