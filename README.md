@@ -30,7 +30,7 @@ HFNO is a valuable treatment in the ongoing COVID-19 pandemic. Its importance ha
 
 This project provides both the 3D-models of parts needed for split HFNO treatment as well as _**suggested**_ instructions for use and manufacturing instructions. We also aim to continuously provide the validation from both simulations / calculations as well as real world usage (when ready).
 
-![Render of T-Shaped Connector](Meta/Schematics%20and%20Renders/T-front.png 'Render of T-Shaped Connector')
+![Render of T-Shaped Connector](Meta/Schematics%20and%20Renders/T-Coupling-V4/V4-front-view2.png 'Render of T-Shaped Connector')
 _Fig 2. Render of the T-shaped connector that enables SHFNO_
 
 ## Documentation
