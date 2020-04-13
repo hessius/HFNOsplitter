@@ -27,9 +27,3 @@ You should take all steps necessary to ascertain that this information is correc
 The information in this document is intended solely for non-commercial use of the user who accepts full responsibility for its use. While we have taken every precaution to ensure that the content of the document is both current and accurate, errors can occur.
 
 The authors, affiliates, and partners assume no responsibility or liability for any errors or omissions in the content of this document or for any errors or omissions that result from the development of any products, services as a result of utilizing this documentation. The information contained is provided on an “as is” basis with no guarantees of completeness, accuracy, usefulness or timeliness.
-
-<br /><br /><br /><br />
-
----
-
-### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next section → &emsp;[**Overview - Introduction**](01%20Overview%20-%20Introduction.md)

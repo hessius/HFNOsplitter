@@ -29,9 +29,3 @@ While several steps have been taken to address condensation, it is notable that 
 ### Continued validation
 
 While basic validation has been sufficient to bring this into use as a standby solution at the hospital of origin we are performing continued validation focused on measuring the air flow within the circuit. We are now close to a functioning setup with results expected mid-April. When results are available, this document will be updated accordingly.
-
-<br /><br /><br /><br />
-
----
-
-### [**Hygiene**](06%20Hygiene.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**FAQ**](07%20FAQ.md)

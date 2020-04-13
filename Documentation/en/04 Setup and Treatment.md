@@ -110,9 +110,3 @@ If possible, try to orient the CPAP and BiPAP tubes in a way that condensation c
 ## Sterile water
 
 SHFNO consumes more water per litre of flow through the system due to condensation being accumulated in collection bottles rather than flowing back to the water chamber. The Airvo 2 will alert when the water chamber is dry, please ensure that you change the sterile water bag before the water chamber is completely empty.
-
-<br /><br /><br /><br />
-
----
-
-### [**Models and Instructions**](03%20Models%20and%20Instructions.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**Troubleshooting**](05%20Troubleshooting.md)

@@ -18,9 +18,3 @@
 | ----------- | ---------- |
 | 121 °C      | 15 minutes |
 | 138 °C      | 3 minutes  |
-
-<br /><br /><br /><br />
-
----
-
-### [**Troubleshooting**](05%20Troubleshooting.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**Validation**](07%20Validation.md)

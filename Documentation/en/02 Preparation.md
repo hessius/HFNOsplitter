@@ -51,9 +51,3 @@ The patients meet, or are expected to meet, all of the following criteria:
 - Similar treatment requirements.
   - Patients need to be able to sustained on HFNO treatment with a maximum flow of 30 lpm
   - When needing to start a new patient on SHFNO/HFNO when all Airvo 2 systems are in use, we recommend matching patients with ongoing HFNO treatment with the same or similar settings so that new patients whenever possible can be started on discrete HFNO until requirements for that patient are identified.
-
-<br /><br /><br /><br />
-
----
-
-### [**Overview - Introduction**](01%20Overview%20-%20Introduction.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**Models and Instructions**](03%20Models%20and%20Instructions.md)

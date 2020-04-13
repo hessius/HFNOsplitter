@@ -33,9 +33,3 @@ For both sides of the setup:
 1. **Check collection bottles**
 
    Ensure that the bottle is securely connected, and that it is not completely filled with fluid.
-
-<br /><br /><br /><br />
-
----
-
-### [**Setup and Treatment**](04%20Setup%20and%20Treatment.md)&emsp;← Prev&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Next →&emsp;[**Hygiene**](06%20Hygiene.md)

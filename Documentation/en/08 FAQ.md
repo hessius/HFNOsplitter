@@ -43,9 +43,3 @@ _This section will be updated continuously._
 - ### Can you sell me a kit?
 
   No. We recommend against selling kits as there are possible legal ramifications. However if you produce these for someone else you are allowed to charge for contract manufacturing i.e. materials used and print time reimbursement if applicable.
-
-<br /><br /><br /><br />
-
----
-
-### [**Validation**](07%20Validation.md)&emsp;← Prev

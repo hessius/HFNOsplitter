@@ -14,6 +14,12 @@ menu:
     home:
       text: Home
       relativeUrl: index.html
+    summary:
+      text: Summary
+      relativeUrl: summary.html
+    status:
+      text: Status
+      relativeUrl: status.html
     about:
       text: About This Documentation
       relativeUrl: Documentation/en/00%20About%20This%20Documentation.html
@@ -45,5 +51,14 @@ menu:
       text: FAQ
       relativeUrl: Documentation/en/08%20FAQ.html
     dl:
-      text: Download
-      absoluteUrl: https://github.com/hessius/HFNOsplitter/archive/latest.zip
+      text: Downloads
+      relativeUrl: downloads.html
+    sv:
+      text: Swedish documentation
+      absoluteUrl: https://github.com/hessius/HFNOsplitter/tree/master/Documentation/sv
+    gh:
+      text: Open in Github
+      absoluteUrl: https://github.com/hessius/HFNOsplitter/
+    contact:
+      text: Contact
+      relativeUrl: contact.html
