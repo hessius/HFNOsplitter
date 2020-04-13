@@ -1,5 +1,5 @@
 template:
-  url: https://github.com/moqmar/mintlook-couscous
+  url: https://github.com/CouscousPHP/Template-ReadTheDocs
 title: SHFNO.org
 subTitle: Split High-Flow Nasal Oxygen
 fontAwesomeIcon: fal fa-people-arrows
@@ -44,3 +44,6 @@ menu:
     faq:
       text: FAQ
       relativeUrl: Documentation/en/08%20FAQ.html
+    dl:
+      text: Download
+      absoluteUrl: https://github.com/hessius/HFNOsplitter/archive/latest.zip
