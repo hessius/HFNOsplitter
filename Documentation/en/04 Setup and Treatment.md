@@ -2,24 +2,27 @@
 
 ### Equipment needed
 
-- Fisher & Paykel Airvo 2.
-- Pole stand with Airvo 2 and oxygen aggregate.
-- 1 x Water Chamber\*. (900PT561)
-- 1 x Fisher & Paykel AirSpiral\*. (900PT561)
-- 2 x Nasal Cannula Fisher & Paykel Optiflow (OPT942 / OPT944 / OPT946)
-  - N.B! Both cannulae should be identic in size!
-- 2 x CPAP / BiPAP-slang
-  - 22 mm diameter and 1,8 m (3ft) length
-  - E.g. Philips Respironics BiPAP / CPAP Reusable Flexible Tubing
-  - N.B! Both tubes should be identic!
-- (Optional, subject to availability: 2 x Philips Tubing Isolator – colloquially ”Tube Sock”)
-- T-shaped connector, with markings ABCDE – ”T-Connector"
-- 2 x Smaller 22mm to Optiflow adapter – ”Adapter”
-- 2 x Cleaned 50 cl PET bottle – ”Collection bottle"
-- 2 x Cable Tie (at least 100 mm in length)
-- (Optional: standard 22mm female plug or printable male plug)
-- (Optional: printable PET plug)
-- Sterile water, 1000 ml.
+**a)** Fisher & Paykel Airvo 2.<br>
+**b)** Pole stand with Airvo 2 and oxygen aggregate.<br>
+**c)** 1 x Water Chamber\*. (900PT561)<br>
+**d)** 1 x Fisher & Paykel AirSpiral\*. (900PT561)<br>
+**e)** 2 x Nasal Cannula Fisher & Paykel Optiflow (OPT942 / OPT944 / OPT946)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**i)** N.B! Both cannulae should be identic in size!<br>
+**f)** 2 x CPAP / BiPAP-tubing<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**i)** 22 mm diameter and 1,8 m (3ft) length<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**ii)** E.g. Philips Respironics BiPAP / CPAP Reusable Flexible Tubing<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**iii)** N.B! Both tubes should be identic!<br>
+**g)** _Optional_, subject to availability: 2 x Philips Tubing Isolator – colloquially ”Tube Sock”)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**i)** Will help reduce condensation but not strictly needed for setup<br>
+**h)** T-shaped connector, with markings ABCDE – ”T-Connector"<br>
+**i)** 2 x Smaller 22mm to Optiflow adapter – ”Adapter”<br>
+**j)** 2 x Cleaned 50 cl PET bottle – ”Collection bottle"<br>
+**k)** 2 x Cable Tie (at least 100 mm in length)<br>
+**l)** _Optional_: standard 22mm female plug or printable male plug<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**i)** Only used when starting HFNO with SHFNO prepared setup<br>
+**m)** _Optional_: printable PET plug<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**i)** Only used when starting HFNO with SHFNO prepared setup<br>
+**n)** Sterile water, 1000 ml.<br>
 
 _\*N.B. That the Air Spiral tube generally comes in a set with a water chamber ("Tube & Chamber Kit"), only one of which is used in the SHFNO setup._
 
@@ -28,18 +31,18 @@ Fig 1. Schematic illustration of T-Connector
 
 ### Setup
 
-1. Attach (screw into place) two empty collection bottles to the ports on bottom of the T-connector, labeled D and E (will only fit these ports).
-1. Attach the concave back of the T-Connector to the pole stand, slightly above and contralaterally to the Airvo 2. The T-Connector should be mounted below patient height. The T-connector should be oriented so that the collection bottles point downward and the AirSpiral tube connects to the top of the T-connector. Secure the T-connector to the pole using two cable ties which can be treaded through the holes on the back of the T-connector.
-1. Prepare the water chamber by removing the blue port caps and fitting the supplied adapter. Fit the water chamber to the Airvo 2, ensure that the chamber clicks into place.
-1. Connect the sterile water bag to the water chamber.
-1. Connect the AirSpiral tube to the Airvo 2 and lock it into place by pushing down on sleeve.
-1. Attach the distal end of the AirSpiral tube to the port on the top of the T-Connector, labeled "A" (will only fit this port). If possible, loop over the top of the pole stand so that condensation is allowed to drain either to the Airvo 2 or the collection bottles.
-1. Connect the BiPAP/CPAP tubing to the two remaining ports on the T-connector (labeled B and C)†.
-1. (If "Tube Socks" are available, attach these to each of the tubings,)
-1. Attach Adapter to the distal end of each BiPAP/CPAP tube.
-1. Attach Optiflow nasal cannula to each adapter.
-1. Attach oxygen aggregate to oxygen outlet.
-1. The setup is now ready to initiate treatment!
+**1)** Attach (screw into place) two empty collection bottles to the ports on bottom of the T-connector, labeled D and E (will only fit these ports).<br>
+**2)** Attach the concave back of the T-Connector to the pole stand, slightly above and contralaterally to the Airvo 2. The T-Connector should be mounted below patient height. The T-connector should be oriented so that the collection bottles point downward and the AirSpiral tube connects to the top of the T-connector. Secure the T-connector to the pole using two cable ties which can be treaded through the holes on the back of the T-connector.<br>
+**3)** Prepare the water chamber by removing the blue port caps and fitting the supplied adapter. Fit the water chamber to the Airvo 2, ensure that the chamber clicks into place.<br>
+**4)** Connect the sterile water bag to the water chamber.<br>
+**5)** Connect the AirSpiral tube to the Airvo 2 and lock it into place by pushing down on sleeve.<br>
+**6)** Attach the distal end of the AirSpiral tube to the port on the top of the T-Connector, labeled "A" (will only fit this port). If possible, loop over the top of the pole stand so that condensation is allowed to drain either to the Airvo 2 or the collection bottles.<br>
+**7)** Connect the BiPAP/CPAP tubing to the two remaining ports on the T-connector (labeled B and C)†.<br>
+**8)** (If "Tube Socks" are available, attach these to each of the tubings)<br>
+**9)** Attach Adapter to the distal end of each BiPAP/CPAP tube.<br>
+**10)** Attach Optiflow nasal cannula to each adapter.<br>
+**11)** Attach oxygen aggregate to oxygen outlet.<br>
+**12)** The setup is now ready to initiate treatment!<br>
 
 †When starting HFNO with an SHFNO prepared setup, one side (B or C) of the T-connector is plugged. N.B. that both collection bottles are still needed.
 
