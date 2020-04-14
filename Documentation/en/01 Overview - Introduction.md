@@ -1,16 +1,14 @@
 # Overview
 
-Treating two patients in parallell with High-Flow Nasal Oxygen (HFNO) using the Airvo 2 system is possible due to
+Treating two patients in parallell with High-Flow Nasal Oxygen (HFNO) using the Airvo 2 system is possible due to<br>
+a. Treatment guidelines that stipulate a maximum flow should be kept as low as possible to avoid / minimise aerosol dispersion, often capped at 30 lpm.<br>
+b. The Airvo 2 system being capable of outputting 60 litres/minute (well above recommended maximum air flow)
 
-1. Treatment guidelines that stipulate a maximum flow should be kept as low as possible to avoid / minimise aerosol dispersion, often capped at 30 lpm.
-2. The Airvo 2 system being capable of outputting 60 litres/minute (well above recommended maximum air flow)
-
-Treating two patients in parallell with HFNO using the Airvo 2 system is feasible due to
-
-1. Unidirectional high flow makes cross contamination unlikely
-2. Using this only for cohort care with patients with the same disease makes cross contamination less significant
-3. HFNO being a completely open system / circuit makes patient factors non significant for air flow dynamics
-4. In the authors' limited experience the COVID-19 patients are often titrated to very similar treatments
+Treating two patients in parallell with HFNO using the Airvo 2 system is feasible due to<br>
+a. Unidirectional high flow makes cross contamination unlikely<br>
+b. Using this only for cohort care with patients with the same disease makes cross contamination less significant<br>
+c. HFNO being a completely open system / circuit makes patient factors non significant for air flow dynamics<br>
+d. In the authors' limited experience the COVID-19 patients are often titrated to very similar treatments<br>
 
 ---
 
