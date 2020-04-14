@@ -25,7 +25,7 @@ menu:
       relativeUrl: Documentation/en/00%20about%20this%20documentation.html
     license:
       text: License (CERN-OHL-S)
-      absoluteUrl: https://github.com/hessius/HFNOsplitter/raw/master/LICENSE_cern_ohl_s_v2.pdf
+      absoluteUrl: https://github.com/hessius/HFNOsplitter/blob/master/LICENSE_cern_ohl_s_v2.pdf
     overview:
       text: Overview - Introduction
       relativeUrl: Documentation/en/01%20overview%20-%20introduction.html
