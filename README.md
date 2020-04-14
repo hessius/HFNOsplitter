@@ -55,7 +55,7 @@ _Fig 1. SHFNO Schematic setup_
 
 ---
 
-- **Petter Frieberg**
+- **Göran Petersson**
   - _Biomedical Engineer_, Department of Medical Technology Skåne<br> Region Skåne
   - **Role:** Validation - Documentation
 
