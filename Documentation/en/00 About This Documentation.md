@@ -1,4 +1,4 @@
-## About This Documentation
+# About This Documentation
 
 This documentation is provided as is, and in no event will the authors be held liable for any damages arising from the use of this material and instructions.
 
@@ -16,7 +16,7 @@ Sincerely
 
 _Jesper Hessius_, MD
 
-## Legal Disclaimer
+# Legal Disclaimer
 
 The material and information contained in this document is for general information purposes only. You should not rely upon the material or information within this documentation as a basis for making any business, legal, medical or any other decisions.
 

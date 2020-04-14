@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 Treating two patients in parallell with High-Flow Nasal Oxygen (HFNO) using the Airvo 2 system is possible due to
 
@@ -12,13 +12,17 @@ Treating two patients in parallell with HFNO using the Airvo 2 system is feasibl
 3. HFNO being a completely open system / circuit makes patient factors non significant for air flow dynamics
 4. In the authors' limited experience the COVID-19 patients are often titrated to very similar treatments
 
-## Basic Schematics
+---
+
+# Basic Schematics
 
 | Standard Setup                                                                                     | SHFNO setup                                                                         |
 | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | ![Standard HFNO Setup](../../Meta/Schematics%20and%20Renders/HFNOschema.png 'Standard HFNO Setup') | ![SHFNO Setup](../../Meta/Schematics%20and%20Renders/SHFNOschema.png 'SHFNO Setup') |
 
-## Introduction
+---
+
+# Introduction
 
 High-Flow Nasal Oxygen (HFNO) / High Flow Nasal Cannula (HFNC) is a staple of treatment in COVID-19, especially as many countries, regions, hospitals, and health care providers are now recommending against regularly using CPAP and Non-Invasive Ventilation (NIV)/BiPAP in these patients. This is the case in Sweden (where this project was initiated), where the Infectious Diseases Association of Sweden (**IDAS**, "Svenska Infektionsläkarföreningen" in Swedish) has recommended not using CPAP or NIV as well as limited upper maximums for HFNO (See below).
 
@@ -30,9 +34,9 @@ IDAS, as well as the [Karolinska University Hospital](https://strummet.files.wor
 
 HFNO systems are well suited for split airflow, substantially more so than invasive ventilators, CPAP, or BiPAP. This is due to the open nature of the system, which causes patient factors, such as airway resistance to have minimal impact on the air flow. The unidirectionality of the air flow means that no air is shared between patients, even without added filtration. Even so, it is the authors' suggestion that the only patients eligible for treatment with Split HFNO (Hereon "**SHFNO**") are patients suffering from the same disease, such as COVID-19, which also means that potential cross-bcontamination across patients is less significant. We further recommend against using SHFNO for patients with _confirmed_ secondary bacterial infections as well as for carriers of drug-resistant bacteria.
 
-**While every health care provider utilising SHFNO will need to ensure that they have medical instructions for use in place, these guidelines are provided as an example, which is subject to change and without any liability (_[see Legal Disclaimer](00%20About%20This%20Documentation.md)_). These examples are based on the medical instructions for use from Västmanland Hospital Västerås, in Sweden where the project originated.**
+**While every health care provider utilising SHFNO will need to ensure that they have medical instructions for use in place, these guidelines are provided as an example, which is subject to change and without any liability (_[see Legal Disclaimer](00%20about%20this%20documentation.html)_). These examples are based on the medical instructions for use from Västmanland Hospital Västerås, in Sweden where the project originated.**
 
-In the limited clinical experience of the authors, COVID-19 patients treated under the recommendations above are invariably using HFNO titrated to very similar flows and FiO2. For suggestions on how to start treatment with HFNO / SHFNO please see the provided on [**Setup and Treatment**](04%20Setup%20and%20Treatment.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/04%20Setup%20and%20Treatment.md)).
+In the limited clinical experience of the authors, COVID-19 patients treated under the recommendations above are invariably using HFNO titrated to very similar flows and FiO2. For suggestions on how to start treatment with HFNO / SHFNO please see the provided on [**Setup and Treatment**](04%20setup%20and%20treatment.html).
 
 ### To enable SHFNO we provide 3D models of
 
@@ -41,6 +45,6 @@ In the limited clinical experience of the authors, COVID-19 patients treated und
 
 **A standard SHFNO setup requires one T-shaped connector as well as two adapters.**
 
-It is our recommendation that these models be printed using high quality resin approved for medical use. Please see part 3 of this documentation, [**Models and Instructions**](Documentation/en/03%20Models%20and%20Instructions.md) (as [pdf](https://gitprint.com/hessius/HFNOsplitter/Documentation/en/03%20Models%20and%20Instructions.md)) for more details.
+It is our recommendation that these models be printed using high quality resin approved for medical use. Please see part 3 of this documentation, [**Models and Instructions**](03%20models%20and%20instructions.html) for more details.
 
 _Aside from the main set provided are also models of plugs for the B/C, D/E ports as well as other adapters and an alternate T-shaped connector enabling the proprietary connectors to connect to other standardised connectors as setup might differ across hospitals._

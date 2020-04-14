@@ -1,4 +1,4 @@
-## Troubleshooting
+# Troubleshooting
 
 These instructions are all designed to address a catastrophic situation. If forced to use the SFHNO protocol please take extra precautions. We recommend keeping a reservoir mask by the patient's side at any time when there is ongoing SHFNO.
 

@@ -1,7 +1,7 @@
-## Preparation
+# Preparation
 
 In order to start SHFNO treatment, you need to produce the supplied 3D models (see next part of the documentation) and also establish treatment guidelines, indications and contraindications, etc. specific to your practice setting.
-The examples provided in this documentation are provided as a guidance (_[see Legal Disclaimer](00%20About%20This%20Documentation.md)_). This guidance may change over time as our experience with SHFNO grows. Also, please bear in mind that some details may be highly healthcare system specific.
+The examples provided in this documentation are provided as a guidance (_[see Legal Disclaimer](00%20About%20This%20Documentation.html)_). This guidance may change over time as our experience with SHFNO grows. Also, please bear in mind that some details may be highly healthcare system specific.
 
 ### Basic Guidelines
 

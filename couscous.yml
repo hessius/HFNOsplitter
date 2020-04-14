@@ -55,7 +55,7 @@ menu:
       relativeUrl: downloads.html
     sv:
       text: Swedish documentation
-      absoluteUrl: https://github.com/hessius/HFNOsplitter/tree/master/Documentation/sv
+      absoluteUrl: swedish.html
     gh:
       text: Open in Github
       absoluteUrl: https://github.com/hessius/HFNOsplitter/

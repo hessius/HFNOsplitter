@@ -1,4 +1,4 @@
-## Setup
+# Setup
 
 ### Equipment needed
 
@@ -47,7 +47,9 @@ Fig 1. Schematic illustration of T-Connector
 | :---------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
 | ![Schematic Connected T-Shaped Connector](../../Meta/Schematics%20and%20Renders/Tschema_connected.png 'Schematic Connected T-Shaped Connector') | ![Photo of Connected T-Shaped Connector](../../Meta/Photos/T-alt-Connected.png 'Photo of Connected T-Shaped Connector') |
 
-## Initiation of Treatment
+---
+
+# Initiation of Treatment
 
 _N.B. These are provided as suggestions and should be adapted to local guidelines before SHFNO is put to use._
 
@@ -59,6 +61,8 @@ _N.B. These are provided as suggestions and should be adapted to local guideline
 - Set temperature to 37 °C. If needed the temperature can be lowered to 34 °C.
 - Titrate FiO2 to keep both patients within desired saturation range.
 
+---
+
 ### Starting HFNO with an SHFNO prepared setup
 
 - Setup according to steps above until you reach T-connector.
@@ -68,6 +72,8 @@ _N.B. These are provided as suggestions and should be adapted to local guideline
 - FiO2 is started at 50% in the Airvo 2 system.
 - Set temperature to 37 °C. If needed the temperature can be lowered to 34 °C.
 - Titrate FiO2 to keep patient within desired saturation range.
+
+---
 
 ### Transitioning from HFNO with prepared setup to SHFNO
 
@@ -80,6 +86,8 @@ _N.B. Water chamber and AirSpiral tube does not need to be changed if the setup 
 - Increase the airflow to 60 litres/minute.
 - Titrate O2 to desired level.
 
+---
+
 ### Transitioning from HFNO to SHFNO
 
 _In order to decrease down time and ensure hygienic routines are being maintained, whenever possible transition from HFNO to SHFNO should be carried out by switching Airvo 2 systems. N.B. when transitioning a patient their Optiflow Nasal Cannula is kept, however water chamber and AirSpiral tube cannot be reused._
@@ -88,6 +96,8 @@ _In order to decrease down time and ensure hygienic routines are being maintaine
 - If either of the patients is starting their treatment with SHFNO, rather than transitioning from HFNO, finish their setup according to the instructions above.
 - Transition the Optiflow nasal cannula(e) already in use to the SHFNO-setup.
 - Follow instructions "Starting SHFNO" and titrate desired treatment levels
+
+---
 
 ### Transitioning from SHFNO to HFNO
 
@@ -98,6 +108,8 @@ _In order to decrease down time and ensure hygienic routines are being maintaine
   - _N.B. The inactive side needs either a collection bottle or a PET plug (model available as optional part of main set)._
 - Start HFNO according to instruction "Starting HFNO with an SHFNO prepared setup"
 
+---
+
 ## Condensation
 
 Be observant to any condensation within the tube system. In SHFNO the condensation increases and water can accumulate within the CPAP/BiPAP tube.
@@ -106,6 +118,8 @@ Two times per shift, or around every 4 hours, the CPAP/BiPAP tube should be chec
 The collection bottle should be emptied before filling completely. It does not need cleaning when continuing treatment on the same patient after emptying. Make sure to reduce downtime by either removing the bottle and emptying it into another container and promptly screwing the bottle back on. If no other container is available, the bottle should be removed and another one attached to the system before disposing of the fluid collection. _N.B. The system needs both bottles attached in order to function properly_.
 
 If possible, try to orient the CPAP and BiPAP tubes in a way that condensation can continuously flow back to the collection bottle. If a screen is used to divide patients, note that the tube cannot be passed over the screen as this affects flow of condensation.
+
+---
 
 ## Sterile water
 

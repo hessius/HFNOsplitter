@@ -1,6 +1,8 @@
-## Models
+# Models
 
 These designs have all been made from scratch for this project. They use no prioprietary or 3D-scanned information. They are based on ISO standards when applicable - ISO-5356 for connectors and ISO-19054:2006 for mounts. All CAD work has been performed by Erik Cederberg at 3Dverkstan on behalf of the project.
+
+---
 
 ### T-Connector
 
@@ -16,11 +18,11 @@ The design features clear markings so that the setup can be as easy and reliable
 
 The T-connector provided has a unified mount conforming the ISO-19054:2006 rail mount standard as well as enabling fastening with cable ties. The previous ziptie-only mount for the Airvo pole is therefore considered deprecated.
 
-|                                                ISO-19054:2006 / Zip tie unified mount (male)                                                 | Zip tie mount (female)                                                                                                 |
-| :------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------- |
-| ![T-Connector back ISO-mount](../../Meta/Schematics%20and%20Renders/T-Coupling-V4/V4-Backside-Combimount.png 'T-Connector back Combi-mount') | ![T-Connector back cable tie mount](../../Meta/Schematics%20and%20Renders/T-alt-Back.png 'T-Connector back ISO-mount') |
+|                                                ISO-19054:2006 / Zip tie unified mount (male)                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![T-Connector back ISO-mount](../../Meta/Schematics%20and%20Renders/T-Coupling-V4/V4-Backside-Combimount.png 'T-Connector back Combi-mount') |
 
-N.B. the cable tie mounted T-connector is available in both a male and female configuration, for the standard setup we recommend using the male configuration.
+---
 
 ### Adapters
 
@@ -30,11 +32,15 @@ For the core set you need two copies of the male Airvo connector with a male 22m
 
 ![All adapters](../../Meta/Schematics%20and%20Renders/Adapters_All.png 'All adapters')
 
+---
+
 ## Demo
 
 This AR demo, only available on iOS, shows the 3D printed parts (for a standard setup) in actual size in Augmented Reality. Launch the demo by opening the link using an iPhone or iPad.
 
 ## [Launch AR-Demo](https://github.com/hessius/HFNOsplitter/blob/master/Meta/Other/Complete%20Set%20-%20Orientation.usdz?raw=true)
+
+---
 
 ## Manufacturing Instructions
 
