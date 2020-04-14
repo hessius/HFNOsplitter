@@ -2,8 +2,8 @@ template:
   url: https://github.com/CouscousPHP/Template-ReadTheDocs
 title: SHFNO.org
 subTitle: Split High-Flow Nasal Oxygen
-fontAwesomeIcon: fal fa-people-arrows
-baseUrl: https://hessius.github.io/HFNOsplitter/
+cname: shfno.org
+baseUrl: https://shfno.org
 github:
   user: hessius
   repo: HFNOsplitter
@@ -22,34 +22,34 @@ menu:
       relativeUrl: status.html
     about:
       text: About This Documentation
-      relativeUrl: Documentation/en/00%20About%20This%20Documentation.html
+      relativeUrl: Documentation/en/00%20about%20this%20documentation.html
     license:
       text: License (CERN-OHL-S)
       absoluteUrl: https://github.com/hessius/HFNOsplitter/raw/master/LICENSE_cern_ohl_s_v2.pdf
     overview:
       text: Overview - Introduction
-      relativeUrl: Documentation/en/01%20Overview%20-%20Introduction.html
+      relativeUrl: Documentation/en/01%20overview%20-%20introduction.html
     preparation:
       text: Preparation
-      relativeUrl: Documentation/en/02%20Preparation.html
+      relativeUrl: Documentation/en/02%20preparation.html
     models:
       text: Models and Instructions
-      relativeUrl: Documentation/en/03%20Models%20and%20Instructions.html
+      relativeUrl: Documentation/en/03%20models%20and%20instructions.html
     setup:
       text: Setup and Treatment
-      relativeUrl: Documentation/en/04%20Setup%20and%20Treatment.html
+      relativeUrl: Documentation/en/04%20setup%20and%20treatment.html
     troubleshooting:
       text: Troubleshooting
-      relativeUrl: Documentation/en/05%20Troubleshooting.html
+      relativeUrl: Documentation/en/05%20troubleshooting.html
     hygiene:
       text: Hygiene
-      relativeUrl: Documentation/en/06%20Hygiene.html
+      relativeUrl: Documentation/en/06%20hygiene.html
     validation:
       text: Validation
-      relativeUrl: Documentation/en/07%20Validation.html
+      relativeUrl: Documentation/en/07%20validation.html
     faq:
       text: FAQ
-      relativeUrl: Documentation/en/08%20FAQ.html
+      relativeUrl: Documentation/en/08%20faq.html
     dl:
       text: Downloads
       relativeUrl: downloads.html
