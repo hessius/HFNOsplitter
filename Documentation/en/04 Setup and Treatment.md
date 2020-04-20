@@ -52,6 +52,12 @@ Fig 1. Schematic illustration of T-Connector
 
 ---
 
+## Video instructions
+
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1587398285/video_to_markdown/images/youtube--IGeHuBSa3UQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IGeHuBSa3UQ)
+
+---
+
 # Initiation of Treatment
 
 _N.B. These are provided as suggestions and should be adapted to local guidelines before SHFNO is put to use._
